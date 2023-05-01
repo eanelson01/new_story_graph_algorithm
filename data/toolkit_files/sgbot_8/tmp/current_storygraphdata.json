@@ -1,0 +1,775 @@
+{
+    "start_date": "2019-02-17 00:00:00",
+    "end_date": "2019-02-17 01:16:12",
+    "daily_maxgraph_count": 0,
+    "maxgraphs": {
+        "2019-02-17": {
+            "graphs": [
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=30&hist=144&t=2019-02-17T05:06:24",
+                    "timestamp": "2019-02-17T05:06:24.390129Z",
+                    "avg_degree": 4.266666666666667,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 11,
+                        "max_node_indx": 82,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-jussie-smollett-claims-i-fought-the-fck-back-in-west-hollywood-public-appearance-shortly-after-fake-maga-attack/",
+                                "title": "FLASHBACK: Jussie Smollett Tells Hollywood Crowd \"I Fought the F*ck Back\" Shortly After Fake MAGA Attack"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-actor-of-the-year-jussie-smollett-cries-and-lies-on-gma-lashes-out-at-hateful-doubters-video/",
+                                "title": "FLASHBACK: Actor of the Year Jussie Smollett Cries and Lies on GMA - Lashes Out at Hateful Doubters (VIDEO)"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/jussie-smollett-paid-nigerian-brothers-3500-before-leaving-for-nigeria-promised-additional-500-upon-their-return/",
+                                "title": "Jussie Smollett Paid Nigerian Brothers $3,500 Before Leaving For Nigeria - Promised Additional $500 Upon Their Return"
+                            },
+                            {
+                                "link": "https://www.huffpost.com/entry/jussie-smollett-attack-chicago-police_n_5c68bb8ce4b05c889d1fe35f",
+                                "title": "Police: Investigation Into Alleged Jussie Smollett Attack Has 'Shifted' | HuffPost"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/16/entertainment/jussie-smollett-attack/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Police sources: New evidence suggests Jussie Smollett orchestrated attack - CNN"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/14/jussie-smollett-attackers-targeted-me-because-i-come-really-really-hard-against-trump/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Jussie Smollett: Attackers Targeted Me Because 'I Come Really, Really Hard' Against Trump"
+                            },
+                            {
+                                "link": "https://www.washingtonexaminer.com/news/embarrassment-for-2020-democrats-after-jussie-smollett-attack-story-unravels",
+                                "title": "Embarrassment for 2020 Democrats after Jussie Smollett attack story unravels"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack"
+                            },
+                            {
+                                "link": "https://dailycaller.com/2019/02/16/chicago-police-jussie-smollett-attack/",
+                                "title": "Report: Chicago Police Believe Jussie Smollett Paid Men To Stage Attack | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/just-in-jussie-smolletts-attorneys-release-statement-insisting-maga-hate-hoax-was-real/",
+                                "title": "JUST IN: Jussie Smollett's Attorneys Call Cops Liars - Release Statement Insisting MAGA Hate Hoax Was Real"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/15/entertainment/jussie-smollett-attack-details/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Everything we know so far about the Jussie Smollett case  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-attack-chicago/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Chicago police say person questioned in connection with Jussie Smollett attack has been on 'Empire' - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-gma/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett interview: Actor reveals details about his attack and says he's 'forever changed'  - CNN"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/01/31/jussie-smolletts-manager-claims-he-heard-assault-maga-country-on-phone/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Jussie Smollett's Manager Claims He Heard 'MAGA Country' on Phone"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/wow-fraudster-jussie-smollett-had-nigerian-bros-purchase-red-ball-hats-for-fake-hate-assault-to-imitate-maga-supporters/",
+                                "title": "WOW! Fraudster Jussie Smollett Had Nigerian Bros Purchase Red Ball Hats for Fake Hate Assault to Imitate MAGA Supporters!"
+                            }
+                        ],
+                        "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                        "max_node_link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                        "max_node_id": "breitbart.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 30,
+                        "timestamp_tz": "2019-02-17T00:06:24",
+                        "timestamp_utc": "2019-02-17T05:06:24"
+                    },
+                    "id": "0-0",
+                    "story_idx": 0
+                },
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=31&hist=144&t=2019-02-17T05:17:14",
+                    "timestamp": "2019-02-17T05:17:14.576617Z",
+                    "avg_degree": 4.133333333333334,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 10,
+                        "max_node_indx": 80,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-actor-of-the-year-jussie-smollett-cries-and-lies-on-gma-lashes-out-at-hateful-doubters-video/",
+                                "title": "FLASHBACK: Actor of the Year Jussie Smollett Cries and Lies on GMA - Lashes Out at Hateful Doubters (VIDEO)"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/16/entertainment/jussie-smollett-attack/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Police sources: New evidence suggests Jussie Smollett orchestrated attack - CNN"
+                            },
+                            {
+                                "link": "https://www.huffpost.com/entry/jussie-smollett-attack-chicago-police_n_5c68bb8ce4b05c889d1fe35f",
+                                "title": "Police: Investigation Into Alleged Jussie Smollett Attack Has 'Shifted' | HuffPost"
+                            },
+                            {
+                                "link": "https://www.washingtonexaminer.com/news/embarrassment-for-2020-democrats-after-jussie-smollett-attack-story-unravels",
+                                "title": "Embarrassment for 2020 Democrats after Jussie Smollett attack story unravels"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack"
+                            },
+                            {
+                                "link": "https://dailycaller.com/2019/02/16/chicago-police-jussie-smollett-attack/",
+                                "title": "Report: Chicago Police Believe Jussie Smollett Paid Men To Stage Attack | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-gma/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett interview: Actor reveals details about his attack and says he's 'forever changed'  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/15/entertainment/jussie-smollett-attack-details/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Everything we know so far about the Jussie Smollett case  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/videos/entertainment/2019/02/14/jussie-smollett-attack-pissed-off-sot-nr-vpx.cnn?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett on alleged attack: I'm pissed off - CNN Video"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-attack-chicago/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Chicago police say person questioned in connection with Jussie Smollett attack has been on 'Empire' - CNN"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/lawyers-smollett-further-victimized-by-claims-he-staged-own-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Lawyers: 'Angered' Jussie Smollett 'Further Victimized' By Claims He Staged Own Attack"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/14/jussie-smollett-attackers-targeted-me-because-i-come-really-really-hard-against-trump/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Jussie Smollett: Attackers Targeted Me Because 'I Come Really, Really Hard' Against Trump"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/just-in-jussie-smolletts-attorneys-release-statement-insisting-maga-hate-hoax-was-real/",
+                                "title": "JUST IN: Jussie Smollett's Attorneys Call Cops Liars - Release Statement Insisting MAGA Hate Hoax Was Real"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/wow-fraudster-jussie-smollett-had-nigerian-bros-purchase-red-ball-hats-for-fake-hate-assault-to-imitate-maga-supporters/",
+                                "title": "WOW! Fraudster Jussie Smollett Had Nigerian Bros Purchase Red Ball Hats for Fake Hate Assault to Imitate MAGA Supporters!"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-jussie-smollett-claims-i-fought-the-fck-back-in-west-hollywood-public-appearance-shortly-after-fake-maga-attack/",
+                                "title": "FLASHBACK: Jussie Smollett Tells Hollywood Crowd \"I Fought the F*ck Back\" Shortly After Fake MAGA Attack"
+                            }
+                        ],
+                        "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                        "max_node_link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                        "max_node_id": "breitbart.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 31,
+                        "timestamp_tz": "2019-02-17T00:17:14",
+                        "timestamp_utc": "2019-02-17T05:17:14"
+                    },
+                    "id": "0-1",
+                    "story_idx": 0
+                },
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=34&hist=144&t=2019-02-17T05:46:40",
+                    "timestamp": "2019-02-17T05:46:40.517084Z",
+                    "avg_degree": 4.0,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 9,
+                        "max_node_indx": 81,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-jussie-smollett-claims-i-fought-the-fck-back-in-west-hollywood-public-appearance-shortly-after-fake-maga-attack/",
+                                "title": "FLASHBACK: Jussie Smollett Tells Hollywood Crowd \"I Fought the F*ck Back\" Shortly After Fake MAGA Attack"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-actor-of-the-year-jussie-smollett-cries-and-lies-on-gma-lashes-out-at-hateful-doubters-video/",
+                                "title": "FLASHBACK: Actor of the Year Jussie Smollett Cries and Lies on GMA - Lashes Out at Hateful Doubters (VIDEO)"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-gma/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett interview: Actor reveals details about his attack and says he's 'forever changed'  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/16/entertainment/jussie-smollett-attack/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Police sources: New evidence suggests Jussie Smollett orchestrated attack - CNN"
+                            },
+                            {
+                                "link": "https://www.washingtonexaminer.com/news/embarrassment-for-2020-democrats-after-jussie-smollett-attack-story-unravels",
+                                "title": "Embarrassment for 2020 Democrats after Jussie Smollett attack story unravels"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack"
+                            },
+                            {
+                                "link": "https://dailycaller.com/2019/02/16/chicago-police-jussie-smollett-attack/",
+                                "title": "Report: Chicago Police Believe Jussie Smollett Paid Men To Stage Attack | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/15/entertainment/jussie-smollett-attack-details/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Everything we know so far about the Jussie Smollett case  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/videos/entertainment/2019/02/14/jussie-smollett-attack-pissed-off-sot-nr-vpx.cnn?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett on alleged attack: I'm pissed off - CNN Video"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-attack-chicago/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Chicago police say person questioned in connection with Jussie Smollett attack has been on 'Empire' - CNN"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/lawyers-smollett-further-victimized-by-claims-he-staged-own-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Lawyers: 'Angered' Jussie Smollett 'Further Victimized' By Claims He Staged Own Attack"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/jussie-smollett-could-get-up-to-three-years-in-jail-for-filing-false-police-report/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Jussie Smollett Could Get Up to Three Years in Jail for Filing False Police Report"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/just-in-jussie-smolletts-attorneys-release-statement-insisting-maga-hate-hoax-was-real/",
+                                "title": "JUST IN: Jussie Smollett's Attorneys Call Cops Liars - Release Statement Insisting MAGA Hate Hoax Was Real"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/wow-fraudster-jussie-smollett-had-nigerian-bros-purchase-red-ball-hats-for-fake-hate-assault-to-imitate-maga-supporters/",
+                                "title": "WOW! Fraudster Jussie Smollett Had Nigerian Bros Purchase Red Ball Hats for Fake Hate Assault to Imitate MAGA Supporters!"
+                            }
+                        ],
+                        "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                        "max_node_link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                        "max_node_id": "breitbart.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 34,
+                        "timestamp_tz": "2019-02-17T00:46:40",
+                        "timestamp_utc": "2019-02-17T05:46:40"
+                    },
+                    "id": "0-4",
+                    "story_idx": 0
+                },
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=36&hist=144&t=2019-02-17T06:07:25",
+                    "timestamp": "2019-02-17T06:07:25.988291Z",
+                    "avg_degree": 4.0,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 9,
+                        "max_node_indx": 81,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-jussie-smollett-claims-i-fought-the-fck-back-in-west-hollywood-public-appearance-shortly-after-fake-maga-attack/",
+                                "title": "FLASHBACK: Jussie Smollett Tells Hollywood Crowd \"I Fought the F*ck Back\" Shortly After Fake MAGA Attack"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-actor-of-the-year-jussie-smollett-cries-and-lies-on-gma-lashes-out-at-hateful-doubters-video/",
+                                "title": "FLASHBACK: Actor of the Year Jussie Smollett Cries and Lies on GMA - Lashes Out at Hateful Doubters (VIDEO)"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/flashback-democrats-called-jussie-smollet-attack-lynching-naacp-blamed-trump/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "FLASHBACK: Democrats Called Jussie Smollet Attack 'Lynching'; NAACP Blamed Trump | Breitbart"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/16/entertainment/jussie-smollett-attack/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Police sources: New evidence suggests Jussie Smollett orchestrated attack - CNN"
+                            },
+                            {
+                                "link": "https://www.washingtonexaminer.com/news/embarrassment-for-2020-democrats-after-jussie-smollett-attack-story-unravels",
+                                "title": "Embarrassment for 2020 Democrats after Jussie Smollett attack story unravels"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack"
+                            },
+                            {
+                                "link": "https://dailycaller.com/2019/02/16/chicago-police-jussie-smollett-attack/",
+                                "title": "Report: Chicago Police Believe Jussie Smollett Paid Men To Stage Attack | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/15/entertainment/jussie-smollett-attack-details/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Everything we know so far about the Jussie Smollett case  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/videos/entertainment/2019/02/14/jussie-smollett-attack-pissed-off-sot-nr-vpx.cnn?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett on alleged attack: I'm pissed off - CNN Video"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-attack-chicago/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Chicago police say person questioned in connection with Jussie Smollett attack has been on 'Empire' - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-gma/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett interview: Actor reveals details about his attack and says he's 'forever changed'  - CNN"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/lawyers-smollett-further-victimized-by-claims-he-staged-own-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Lawyers: 'Angered' Jussie Smollett 'Further Victimized' By Claims He Staged Own Attack"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/jussie-smollett-could-get-up-to-three-years-in-jail-for-filing-false-police-report/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Jussie Smollett Could Get Up to Three Years in Jail for Filing False Police Report"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/just-in-jussie-smolletts-attorneys-release-statement-insisting-maga-hate-hoax-was-real/",
+                                "title": "JUST IN: Jussie Smollett's Attorneys Call Cops Liars - Release Statement Insisting MAGA Hate Hoax Was Real"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/wow-fraudster-jussie-smollett-had-nigerian-bros-purchase-red-ball-hats-for-fake-hate-assault-to-imitate-maga-supporters/",
+                                "title": "WOW! Fraudster Jussie Smollett Had Nigerian Bros Purchase Red Ball Hats for Fake Hate Assault to Imitate MAGA Supporters!"
+                            }
+                        ],
+                        "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                        "max_node_link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                        "max_node_id": "breitbart.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 36,
+                        "timestamp_tz": "2019-02-17T01:07:25",
+                        "timestamp_utc": "2019-02-17T06:07:25"
+                    },
+                    "id": "0-6",
+                    "story_idx": 0
+                },
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=35&hist=144&t=2019-02-17T05:57:23",
+                    "timestamp": "2019-02-17T05:57:23.681279Z",
+                    "avg_degree": 3.8666666666666667,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 9,
+                        "max_node_indx": 80,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-actor-of-the-year-jussie-smollett-cries-and-lies-on-gma-lashes-out-at-hateful-doubters-video/",
+                                "title": "FLASHBACK: Actor of the Year Jussie Smollett Cries and Lies on GMA - Lashes Out at Hateful Doubters (VIDEO)"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/16/entertainment/jussie-smollett-attack/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Police sources: New evidence suggests Jussie Smollett orchestrated attack - CNN"
+                            },
+                            {
+                                "link": "https://www.washingtonexaminer.com/news/embarrassment-for-2020-democrats-after-jussie-smollett-attack-story-unravels",
+                                "title": "Embarrassment for 2020 Democrats after Jussie Smollett attack story unravels"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack"
+                            },
+                            {
+                                "link": "https://dailycaller.com/2019/02/16/chicago-police-jussie-smollett-attack/",
+                                "title": "Report: Chicago Police Believe Jussie Smollett Paid Men To Stage Attack | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/15/entertainment/jussie-smollett-attack-details/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Everything we know so far about the Jussie Smollett case  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/videos/entertainment/2019/02/14/jussie-smollett-attack-pissed-off-sot-nr-vpx.cnn?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett on alleged attack: I'm pissed off - CNN Video"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-attack-chicago/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Chicago police say person questioned in connection with Jussie Smollett attack has been on 'Empire' - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-gma/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett interview: Actor reveals details about his attack and says he's 'forever changed'  - CNN"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/flashback-democrats-called-jussie-smollet-attack-lynching-naacp-blamed-trump/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "FLASHBACK: Democrats Called Jussie Smollet Attack 'Lynching'; NAACP Blamed Trump | Breitbart"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/lawyers-smollett-further-victimized-by-claims-he-staged-own-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Lawyers: 'Angered' Jussie Smollett 'Further Victimized' By Claims He Staged Own Attack"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/jussie-smollett-could-get-up-to-three-years-in-jail-for-filing-false-police-report/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Jussie Smollett Could Get Up to Three Years in Jail for Filing False Police Report"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/just-in-jussie-smolletts-attorneys-release-statement-insisting-maga-hate-hoax-was-real/",
+                                "title": "JUST IN: Jussie Smollett's Attorneys Call Cops Liars - Release Statement Insisting MAGA Hate Hoax Was Real"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/wow-fraudster-jussie-smollett-had-nigerian-bros-purchase-red-ball-hats-for-fake-hate-assault-to-imitate-maga-supporters/",
+                                "title": "WOW! Fraudster Jussie Smollett Had Nigerian Bros Purchase Red Ball Hats for Fake Hate Assault to Imitate MAGA Supporters!"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-jussie-smollett-claims-i-fought-the-fck-back-in-west-hollywood-public-appearance-shortly-after-fake-maga-attack/",
+                                "title": "FLASHBACK: Jussie Smollett Tells Hollywood Crowd \"I Fought the F*ck Back\" Shortly After Fake MAGA Attack"
+                            }
+                        ],
+                        "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                        "max_node_link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                        "max_node_id": "breitbart.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 35,
+                        "timestamp_tz": "2019-02-17T00:57:23",
+                        "timestamp_utc": "2019-02-17T05:57:23"
+                    },
+                    "id": "0-5",
+                    "story_idx": 0
+                },
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=32&hist=144&t=2019-02-17T05:27:05",
+                    "timestamp": "2019-02-17T05:27:05.681316Z",
+                    "avg_degree": 3.5714285714285716,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 9,
+                        "max_node_indx": 81,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-jussie-smollett-claims-i-fought-the-fck-back-in-west-hollywood-public-appearance-shortly-after-fake-maga-attack/",
+                                "title": "FLASHBACK: Jussie Smollett Tells Hollywood Crowd \"I Fought the F*ck Back\" Shortly After Fake MAGA Attack"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-actor-of-the-year-jussie-smollett-cries-and-lies-on-gma-lashes-out-at-hateful-doubters-video/",
+                                "title": "FLASHBACK: Actor of the Year Jussie Smollett Cries and Lies on GMA - Lashes Out at Hateful Doubters (VIDEO)"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-gma/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett interview: Actor reveals details about his attack and says he's 'forever changed'  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/16/entertainment/jussie-smollett-attack/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Police sources: New evidence suggests Jussie Smollett orchestrated attack - CNN"
+                            },
+                            {
+                                "link": "https://www.washingtonexaminer.com/news/embarrassment-for-2020-democrats-after-jussie-smollett-attack-story-unravels",
+                                "title": "Embarrassment for 2020 Democrats after Jussie Smollett attack story unravels"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack"
+                            },
+                            {
+                                "link": "https://dailycaller.com/2019/02/16/chicago-police-jussie-smollett-attack/",
+                                "title": "Report: Chicago Police Believe Jussie Smollett Paid Men To Stage Attack | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/15/entertainment/jussie-smollett-attack-details/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Everything we know so far about the Jussie Smollett case  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/videos/entertainment/2019/02/14/jussie-smollett-attack-pissed-off-sot-nr-vpx.cnn?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett on alleged attack: I'm pissed off - CNN Video"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-attack-chicago/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Chicago police say person questioned in connection with Jussie Smollett attack has been on 'Empire' - CNN"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/lawyers-smollett-further-victimized-by-claims-he-staged-own-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Lawyers: 'Angered' Jussie Smollett 'Further Victimized' By Claims He Staged Own Attack"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/14/jussie-smollett-attackers-targeted-me-because-i-come-really-really-hard-against-trump/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Jussie Smollett: Attackers Targeted Me Because 'I Come Really, Really Hard' Against Trump"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/just-in-jussie-smolletts-attorneys-release-statement-insisting-maga-hate-hoax-was-real/",
+                                "title": "JUST IN: Jussie Smollett's Attorneys Call Cops Liars - Release Statement Insisting MAGA Hate Hoax Was Real"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/wow-fraudster-jussie-smollett-had-nigerian-bros-purchase-red-ball-hats-for-fake-hate-assault-to-imitate-maga-supporters/",
+                                "title": "WOW! Fraudster Jussie Smollett Had Nigerian Bros Purchase Red Ball Hats for Fake Hate Assault to Imitate MAGA Supporters!"
+                            }
+                        ],
+                        "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                        "max_node_link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                        "max_node_id": "breitbart.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 32,
+                        "timestamp_tz": "2019-02-17T00:27:05",
+                        "timestamp_utc": "2019-02-17T05:27:05"
+                    },
+                    "id": "0-2",
+                    "story_idx": 0
+                },
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=33&hist=144&t=2019-02-17T05:36:55",
+                    "timestamp": "2019-02-17T05:36:55.886938Z",
+                    "avg_degree": 3.5714285714285716,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 9,
+                        "max_node_indx": 81,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-jussie-smollett-claims-i-fought-the-fck-back-in-west-hollywood-public-appearance-shortly-after-fake-maga-attack/",
+                                "title": "FLASHBACK: Jussie Smollett Tells Hollywood Crowd \"I Fought the F*ck Back\" Shortly After Fake MAGA Attack"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/flashback-actor-of-the-year-jussie-smollett-cries-and-lies-on-gma-lashes-out-at-hateful-doubters-video/",
+                                "title": "FLASHBACK: Actor of the Year Jussie Smollett Cries and Lies on GMA - Lashes Out at Hateful Doubters (VIDEO)"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-gma/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett interview: Actor reveals details about his attack and says he's 'forever changed'  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/16/entertainment/jussie-smollett-attack/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Police sources: New evidence suggests Jussie Smollett orchestrated attack - CNN"
+                            },
+                            {
+                                "link": "https://www.washingtonexaminer.com/news/embarrassment-for-2020-democrats-after-jussie-smollett-attack-story-unravels",
+                                "title": "Embarrassment for 2020 Democrats after Jussie Smollett attack story unravels"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack"
+                            },
+                            {
+                                "link": "https://dailycaller.com/2019/02/16/chicago-police-jussie-smollett-attack/",
+                                "title": "Report: Chicago Police Believe Jussie Smollett Paid Men To Stage Attack | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/15/entertainment/jussie-smollett-attack-details/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Everything we know so far about the Jussie Smollett case  - CNN"
+                            },
+                            {
+                                "link": "https://www.cnn.com/videos/entertainment/2019/02/14/jussie-smollett-attack-pissed-off-sot-nr-vpx.cnn?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Jussie Smollett on alleged attack: I'm pissed off - CNN Video"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2019/02/14/entertainment/jussie-smollett-attack-chicago/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Chicago police say person questioned in connection with Jussie Smollett attack has been on 'Empire' - CNN"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/16/lawyers-smollett-further-victimized-by-claims-he-staged-own-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Lawyers: 'Angered' Jussie Smollett 'Further Victimized' By Claims He Staged Own Attack"
+                            },
+                            {
+                                "link": "https://www.breitbart.com/entertainment/2019/02/14/jussie-smollett-attackers-targeted-me-because-i-come-really-really-hard-against-trump/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "Jussie Smollett: Attackers Targeted Me Because 'I Come Really, Really Hard' Against Trump"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/just-in-jussie-smolletts-attorneys-release-statement-insisting-maga-hate-hoax-was-real/",
+                                "title": "JUST IN: Jussie Smollett's Attorneys Call Cops Liars - Release Statement Insisting MAGA Hate Hoax Was Real"
+                            },
+                            {
+                                "link": "https://www.thegatewaypundit.com/2019/02/wow-fraudster-jussie-smollett-had-nigerian-bros-purchase-red-ball-hats-for-fake-hate-assault-to-imitate-maga-supporters/",
+                                "title": "WOW! Fraudster Jussie Smollett Had Nigerian Bros Purchase Red Ball Hats for Fake Hate Assault to Imitate MAGA Supporters!"
+                            }
+                        ],
+                        "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                        "max_node_link": "https://www.breitbart.com/entertainment/2019/02/16/report-chicago-police-believe-jussie-smollett-paid-two-men-to-stage-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                        "max_node_id": "breitbart.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 33,
+                        "timestamp_tz": "2019-02-17T00:36:55",
+                        "timestamp_utc": "2019-02-17T05:36:55"
+                    },
+                    "id": "0-3",
+                    "story_idx": 0
+                }
+            ],
+            "stats": {
+                "total_graphs": 7
+            }
+        }
+    },
+    "story_clusters": {
+        "2019-02-17": {
+            "stories": [
+                {
+                    "clusterer": "sgdata.same_day_seq_cluster_by_common_links",
+                    "graph_ids": [
+                        {
+                            "id": "0-0",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=30&hist=144&t=2019-02-17T05:06:24",
+                            "graph_uri_local_datetime": "2019-02-17T00:06:24",
+                            "avg_degree": 4.266666666666667,
+                            "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                            "maxgraph_idx": 0
+                        },
+                        {
+                            "id": "0-1",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=31&hist=144&t=2019-02-17T05:17:14",
+                            "graph_uri_local_datetime": "2019-02-17T00:17:14",
+                            "avg_degree": 4.133333333333334,
+                            "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                            "maxgraph_idx": 1
+                        },
+                        {
+                            "id": "0-4",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=34&hist=144&t=2019-02-17T05:46:40",
+                            "graph_uri_local_datetime": "2019-02-17T00:46:40",
+                            "avg_degree": 4.0,
+                            "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                            "maxgraph_idx": 2
+                        },
+                        {
+                            "id": "0-6",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=36&hist=144&t=2019-02-17T06:07:25",
+                            "graph_uri_local_datetime": "2019-02-17T01:07:25",
+                            "avg_degree": 4.0,
+                            "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                            "maxgraph_idx": 3
+                        },
+                        {
+                            "id": "0-5",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=35&hist=144&t=2019-02-17T05:57:23",
+                            "graph_uri_local_datetime": "2019-02-17T00:57:23",
+                            "avg_degree": 3.8666666666666667,
+                            "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                            "maxgraph_idx": 4
+                        },
+                        {
+                            "id": "0-2",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=32&hist=144&t=2019-02-17T05:27:05",
+                            "graph_uri_local_datetime": "2019-02-17T00:27:05",
+                            "avg_degree": 3.5714285714285716,
+                            "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                            "maxgraph_idx": 5
+                        },
+                        {
+                            "id": "0-3",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=33&hist=144&t=2019-02-17T05:36:55",
+                            "graph_uri_local_datetime": "2019-02-17T00:36:55",
+                            "avg_degree": 3.5714285714285716,
+                            "max_node_title": "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                            "maxgraph_idx": 6
+                        }
+                    ],
+                    "overlap": [
+                        {
+                            "ov": 0.8667,
+                            "sizes": [
+                                15,
+                                15
+                            ],
+                            "ids": [
+                                "0-0",
+                                "0-1"
+                            ]
+                        },
+                        {
+                            "ov": 1.0,
+                            "sizes": [
+                                15,
+                                14
+                            ],
+                            "ids": [
+                                "0-1",
+                                "0-2"
+                            ]
+                        },
+                        {
+                            "ov": 1.0,
+                            "sizes": [
+                                14,
+                                14
+                            ],
+                            "ids": [
+                                "0-2",
+                                "0-3"
+                            ]
+                        },
+                        {
+                            "ov": 0.9286,
+                            "sizes": [
+                                14,
+                                14
+                            ],
+                            "ids": [
+                                "0-3",
+                                "0-4"
+                            ]
+                        },
+                        {
+                            "ov": 1.0,
+                            "sizes": [
+                                14,
+                                15
+                            ],
+                            "ids": [
+                                "0-4",
+                                "0-5"
+                            ]
+                        },
+                        {
+                            "ov": 1.0,
+                            "sizes": [
+                                15,
+                                15
+                            ],
+                            "ids": [
+                                "0-5",
+                                "0-6"
+                            ]
+                        }
+                    ],
+                    "max_node_titles": [
+                        [
+                            "Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack",
+                            {
+                                "freq": 7,
+                                "graph_uri": [
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=30&hist=144&t=2019-02-17T05:06:24",
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=31&hist=144&t=2019-02-17T05:17:14",
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=32&hist=144&t=2019-02-17T05:27:05",
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=33&hist=144&t=2019-02-17T05:36:55",
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=34&hist=144&t=2019-02-17T05:46:40",
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=35&hist=144&t=2019-02-17T05:57:23",
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=36&hist=144&t=2019-02-17T06:07:25"
+                                ]
+                            }
+                        ]
+                    ],
+                    "max_avg_degree": 4.266666666666667,
+                    "time_range_start": "2019-02-17T05:06:24.390129Z",
+                    "time_range_end": "2019-02-17T06:07:25.988291Z",
+                    "sumgrams_dets": {
+                        "sumgrams": {}
+                    },
+                    "timedelta": "1:01:01.598162",
+                    "duration_mins": 61.016666666666666,
+                    "graph_count": 7,
+                    "pulse": "......."
+                }
+            ]
+        }
+    },
+    "params": {
+        "output": "./sgbot_8/tmp/current_storygraphdata.json",
+        "log_file": "",
+        "log_format": "",
+        "log_level": "INFO",
+        "no_print": false,
+        "pretty_print": true,
+        "thread_count": 5,
+        "graph_url": "https://archive.org/download/",
+        "graph_location": "usa",
+        "start_mm_dd": "03-26",
+        "end_mm_dd": "03-26",
+        "start_datetime": "2019-02-17 00:00:00",
+        "end_datetime": "2019-02-17 01:16:12",
+        "add_non_max_con_comps": false,
+        "add_max_con_comp_text": false,
+        "cluster_stories": true,
+        "cluster_stories_by": "max_avg_degree",
+        "cluster_stories_by_weights": "0.7, 0.3, 0.0",
+        "cursor": 0,
+        "daily_maxgraph_count": 0,
+        "format": "json",
+        "maxstory_count": 0,
+        "maxstory_graph_count": 1,
+        "multiday_cluster": false,
+        "pulse_on": "●⁜⚂ᛥ⊛",
+        "pulse_off": ".",
+        "search_key": "",
+        "search_non_key": "",
+        "sim_coeff": 0.3,
+        "year": 2023,
+        "timezone": "US/Eastern",
+        "tool": "maxgraph",
+        "log_dets": {
+            "level": 20
+        }
+    }
+}

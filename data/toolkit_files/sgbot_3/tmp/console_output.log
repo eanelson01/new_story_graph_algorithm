@@ -1,0 +1,139 @@
+
+StoryGraphToolkit, tool: maxgraph
+
+Generating maxgraphs from 2018-10-29 00:00:00 to 2018-10-29 14:56:30
+Calculating maxgraph for date: 2018-10-29
+	get_timezone_aware_graphs() rm date: 2018-10-29 14:56:52 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 15:05:28 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 15:16:46 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 15:26:44 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 15:35:38 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 15:46:58 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 15:56:30 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 16:07:01 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 16:15:45 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 16:26:53 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 16:35:41 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 16:46:45 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 16:56:03 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 17:07:07 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 17:15:55 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 17:27:01 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 17:36:11 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 17:47:00 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 17:55:44 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 18:06:48 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 18:16:12 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 18:26:54 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 18:35:49 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 18:46:54 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 18:56:04 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 19:06:48 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 19:16:39 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 19:26:17 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 19:36:54 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 19:46:08 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 19:56:54 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 20:06:13 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 20:17:04 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 20:26:16 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 20:36:38 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 20:46:56 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 20:56:24 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 21:06:18 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 21:16:56 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 21:26:03 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 21:37:01 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 21:46:02 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 21:56:58 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 22:06:22 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 22:16:36 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 22:26:47 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 22:36:25 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 22:46:37 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 22:57:08 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 23:06:07 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 23:17:10 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 23:26:23 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 23:36:58 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 23:46:10 > 2018-10-29 14:56:30
+	get_timezone_aware_graphs() rm date: 2018-10-29 23:57:01 > 2018-10-29 14:56:30
+	download_graph_at_byteoffset() at: 2018-10-29T06:44:12.127100Z, bytes=7161442-7354171
+	download_graph_at_byteoffset() at: 2018-10-29T10:04:27.862926Z, bytes=11089589-11287928
+	download_graph_at_byteoffset() at: 2018-10-29T13:24:58.466894Z, bytes=14959224-15128265
+	download_graph_at_byteoffset() at: 2018-10-29T16:46:46.671529Z, bytes=18208780-18360812
+
+Day: 2018-10-29, clustered 89 graphs with similar links into 6 initial subgraph clusters
+
+Day: 2018-10-29, graphs with similar links were clustered into 6 initial subgraphs clusters
+Attempting to further cluster 6 initial subgraph clusters based on similar sumgrams
+	sumgram for pair: 1 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 2 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 3 of 15 (6 Comb. 2), ov: 0.1
+	sumgram for pair: 4 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 5 of 15 (6 Comb. 2), ov: 0.1
+	sumgram for pair: 6 of 15 (6 Comb. 2), ov: 0.17
+	sumgram for pair: 7 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 8 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 9 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 10 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 11 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 12 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 13 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 14 of 15 (6 Comb. 2), ov: 0.0
+	sumgram for pair: 15 of 15 (6 Comb. 2), ov: 0.0
+Initial subgraphs: []
+Singletons: [0, 1, 2, 3, 4, 5]
+Subgraphs post adding singletons: [{0}, {1}, {2}, {3}, {4}, {5}]
+Clustered 6 initial subgraph clusters into 6 subgraph clusters
+	dumpJsonToFile(), wrote: ./sgbot_3/tmp/current_storygraphdata.json
+
+RANKED LIST OF STORIES
+
+date: 2018-10-29, 6 (--maxstory-count=6) stories
+
+
+1/6, max_node_title: Pittsburgh Tree of Life Synagogue Shooting  - Vox (max_node_title repeated 43 of 82 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=95&hist=144&t=2018-10-29T15:57:04
+From: 2018-10-29T04:04:40Z to 2018-10-29T17:35:33Z (13hrs 30min 53 sec), maxgraph max CC avg. deg: 3.92
+Maxgraph max CC max_node_title: Trump: Migrant caravan ' is an invasion' | TheHill
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ........................●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+
+2/6, max_node_title: WATCH LIVE: White House press briefing with Sarah Sanders (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=111&hist=144&t=2018-10-29T18:36:54
+From: 2018-10-29T18:36:54Z to 2018-10-29T18:36:54Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 3.0
+Maxgraph max CC max_node_title: WATCH LIVE: White House press briefing with Sarah Sanders
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .........................................................................................
+
+3/6, max_node_title: Top House Democratic challenger: 'This election is not about Donald Trump' (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=108&hist=144&t=2018-10-29T18:06:24
+From: 2018-10-29T18:06:24Z to 2018-10-29T18:06:24Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.8
+Maxgraph max CC max_node_title: Top House Democratic challenger: 'This election is not about Donald Trump'
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .........................................................................................
+
+4/6, max_node_title: Donald Trump Warns Caravan Migrants: 'Our Military Is Waiting for You' (max_node_title repeated 2 of 2 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=106&hist=144&t=2018-10-29T17:46:32
+From: 2018-10-29T17:46:32Z to 2018-10-29T17:55:26Z (0hrs 08min 54 sec), maxgraph max CC avg. deg: 2.67
+Maxgraph max CC max_node_title: Donald Trump Warns Caravan Migrants: 'Our Military Is Waiting for You'
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .........................................................................................
+
+5/6, max_node_title: Pittsburgh Shooting Suspect Appears in Court; Prosecutors Vow to Pursue Death Penalty - The New York Times (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=112&hist=144&t=2018-10-29T18:45:42
+From: 2018-10-29T18:45:42Z to 2018-10-29T18:45:42Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.48
+Maxgraph max CC max_node_title: Pittsburgh Shooting Suspect Appears in Court; Prosecutors Vow to Pursue Death Penalty - The New York Times
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .........................................................................................
+
+6/6, max_node_title: Trump kicks off week with tweet calling media 'the true enemy of the people' - ABC News (max_node_title repeated 2 of 2 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=109&hist=144&t=2018-10-29T18:17:12
+From: 2018-10-29T18:17:12Z to 2018-10-29T18:25:31Z (0hrs 08min 18 sec), maxgraph max CC avg. deg: 2.12
+Maxgraph max CC max_node_title: Trump kicks off week with tweet calling media 'the true enemy of the people' - ABC News
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .........................................................................................
+
+All pulses: ........................●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+

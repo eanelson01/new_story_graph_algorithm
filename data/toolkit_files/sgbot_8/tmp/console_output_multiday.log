@@ -1,0 +1,264 @@
+
+StoryGraphToolkit, tool: maxgraph
+
+Generating maxgraphs from 2019-02-16 00:00:00 to 2019-02-17 01:05:44
+Calculating maxgraph for date: 2019-02-16
+	download_graph_at_byteoffset() at: 2019-02-16T06:44:39.974478Z, bytes=5187733-5319544
+	download_graph_at_byteoffset() at: 2019-02-16T10:04:35.018762Z, bytes=7800651-7929654
+	download_graph_at_byteoffset() at: 2019-02-16T13:25:03.201287Z, bytes=10474360-10619932
+	download_graph_at_byteoffset() at: 2019-02-16T16:46:24.651383Z, bytes=13525891-13682329
+	download_graph_at_byteoffset() at: 2019-02-16T20:05:47.247466Z, bytes=16503387-16655109
+	download_graph_at_byteoffset() at: 2019-02-17T00:05:47.712097Z, bytes=0-153457
+	download_graph_at_byteoffset() at: 2019-02-16T23:25:50.391919Z, bytes=19406389-19553880
+	download_graph_at_byteoffset() at: 2019-02-17T03:27:43.269896Z, bytes=3027308-3191797
+Calculating maxgraph for date: 2019-02-17
+	get_timezone_aware_graphs() rm date: 2019-02-17 01:07:25 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 01:16:31 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 01:27:11 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 01:36:42 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 01:47:03 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 01:57:03 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 02:07:30 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 02:16:43 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 02:27:41 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 02:36:46 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 02:47:19 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 02:57:29 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 03:06:44 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 03:17:21 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 03:27:39 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 03:36:35 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 03:47:31 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 03:57:15 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 04:07:13 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 04:16:52 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 04:26:32 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 04:37:34 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 04:47:14 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 04:57:01 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 05:07:19 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 05:16:31 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 05:27:29 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 05:37:33 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 05:46:56 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 05:57:36 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 06:07:46 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 06:17:04 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 06:27:33 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 06:37:00 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 06:47:31 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 06:57:03 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 07:07:23 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 07:17:47 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 07:27:13 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 07:37:47 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 07:47:05 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 07:58:00 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 08:07:27 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 08:17:52 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 08:27:55 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 08:37:21 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 08:47:34 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 08:57:03 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 09:07:57 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 09:17:31 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 09:27:42 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 09:38:22 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 09:47:04 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 09:57:39 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 10:08:00 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 10:17:26 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 10:28:00 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 10:38:02 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 10:48:11 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 10:57:26 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 11:08:10 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 11:17:39 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 11:28:29 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 11:38:45 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 11:47:37 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 11:57:48 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 12:07:57 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 12:18:08 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 12:28:19 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 12:37:32 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 12:48:05 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 12:57:43 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 13:08:13 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 13:18:19 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 13:27:37 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 13:37:59 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 13:48:09 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 13:58:18 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 14:08:23 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 14:17:42 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 14:28:43 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 14:37:55 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 14:48:18 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 14:58:27 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 15:07:53 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 15:18:29 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 15:28:40 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 15:38:02 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 15:48:49 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 15:58:05 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 16:08:37 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 16:17:58 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 16:28:47 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 16:37:46 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 16:48:28 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 16:57:41 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 17:08:35 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 17:18:48 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 17:28:07 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 17:38:31 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 17:48:08 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 17:58:37 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 18:08:47 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 18:17:50 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 18:28:55 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 18:38:23 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 18:48:51 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 18:58:16 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 19:08:45 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 19:19:03 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 19:28:08 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 19:38:33 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 19:49:01 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 19:59:26 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 20:08:34 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 20:18:55 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 20:29:07 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 20:38:28 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 20:48:47 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 20:58:22 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 21:08:43 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 21:19:00 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 21:28:23 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 21:38:38 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 21:49:01 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 21:58:31 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 22:08:51 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 22:19:05 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 22:29:20 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 22:38:48 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 22:49:29 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 22:58:33 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 23:09:16 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 23:18:38 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 23:29:02 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 23:39:13 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 23:48:47 > 2019-02-17 01:05:44
+	get_timezone_aware_graphs() rm date: 2019-02-17 23:59:08 > 2019-02-17 01:05:44
+
+Day: YYYY-MM-DD, clustered 150 graphs with similar links into 10 initial subgraph clusters
+
+Day: YYYY-MM-DD, graphs with similar links were clustered into 10 initial subgraphs clusters
+Attempting to further cluster 10 initial subgraph clusters based on similar sumgrams
+	sumgram for pair: 1 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 2 of 45 (10 Comb. 2), ov: 0.14
+	sumgram for pair: 3 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 4 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 5 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 6 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 7 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 8 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 9 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 10 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 11 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 12 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 13 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 14 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 15 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 16 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 17 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 18 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 19 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 20 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 21 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 22 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 23 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 24 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 25 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 26 of 45 (10 Comb. 2), ov: 1.0
+	sumgram for pair: 27 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 28 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 29 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 30 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 31 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 32 of 45 (10 Comb. 2), ov: 1.0
+	sumgram for pair: 33 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 34 of 45 (10 Comb. 2), ov: 1.0
+	sumgram for pair: 35 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 36 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 37 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 38 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 39 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 40 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 41 of 45 (10 Comb. 2), ov: 1.0
+	sumgram for pair: 42 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 43 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 44 of 45 (10 Comb. 2), ov: 0.0
+	sumgram for pair: 45 of 45 (10 Comb. 2), ov: 0.0
+Initial subgraphs: [{3, 5}, {8, 4, 6}]
+Singletons: [0, 1, 2, 7, 9]
+Subgraphs post adding singletons: [{3, 5}, {8, 4, 6}, {0}, {1}, {2}, {7}, {9}]
+Clustered 10 initial subgraph clusters into 7 subgraph clusters
+	dumpJsonToFile(), wrote: ./sgbot_8/tmp/multi-day-clust.json
+
+RANKED LIST OF STORIES
+
+date: YYYY-MM-DD, 7 (--maxstory-count=7) stories
+
+
+1/7, max_node_title: Shooter in deadly Illinois rampage was not supposed to own a gun, police say - CNN (max_node_title repeated 14 of 14 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=129&hist=144&t=2019-02-16T21:36:19
+From: 2019-02-16T21:06:10Z to 2019-02-17T01:16:12Z (4hrs 10min 02 sec), maxgraph max CC avg. deg: 4.75
+Maxgraph max CC max_node_title: Shooter in deadly Illinois rampage was not supposed to own a gun, police say - CNN
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ...........................................................................●●●...●●...........................................●●●●●●●●●...............
+
+2/7, max_node_title: Vatican defrocks former US cardinal Theodore McCarrick over sex abuse (max_node_title repeated 26 of 56 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=89&hist=144&t=2019-02-16T14:56:10
+From: 2019-02-16T13:15:38Z to 2019-02-16T23:56:53Z (10hrs 41min 15 sec), maxgraph max CC avg. deg: 4.29
+Maxgraph max CC max_node_title: Vatican defrocks former US cardinal Theodore McCarrick over sex abuse
+Clusterer: sgdata.same_day_non_seq_cluster_by_title_sumgrams
+Pulse: ...............................................................................⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜.........⁜⁜⁜⁜⁜⁜⁜⁜⁜......
+
+3/7, max_node_title: Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack (max_node_title repeated 28 of 28 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=28&hist=144&t=2019-02-17T04:46:51
+From: 2019-02-17T01:26:26Z to 2019-02-17T05:57:23Z (4hrs 30min 57 sec), maxgraph max CC avg. deg: 4.27
+Maxgraph max CC max_node_title: Report: CPD Believe Jussie Smollett Paid Two Men to Stage Attack
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ...................................................................................⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂.......................................
+
+4/7, max_node_title: Trump Declares a National Emergency, and Provokes a Constitutional Clash - The New York Times (max_node_title repeated 36 of 36 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=62&hist=144&t=2019-02-16T10:24:41
+From: 2019-02-16T05:14:44Z to 2019-02-16T11:04:41Z (5hrs 49min 56 sec), maxgraph max CC avg. deg: 4.12
+Maxgraph max CC max_node_title: Trump Declares a National Emergency, and Provokes a Constitutional Clash - The New York Times
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ...............................ᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥ...................................................................................
+
+5/7, max_node_title: Police: At least 5 dead in Illinois shooting  - CNN Video (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=30&hist=144&t=2019-02-16T05:04:07
+From: 2019-02-16T05:04:07Z to 2019-02-16T05:04:07Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 3.71
+Maxgraph max CC max_node_title: Police: At least 5 dead in Illinois shooting  - CNN Video
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ..............................⊛.......................................................................................................................
+
+6/7, max_node_title: Aurora police chief: Those who died did not deserve this - CNN Video (max_node_title repeated 12 of 12 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=67&hist=144&t=2019-02-16T11:15:34
+From: 2019-02-16T11:15:34Z to 2019-02-16T13:05:01Z (1hrs 49min 26 sec), maxgraph max CC avg. deg: 3.67
+Maxgraph max CC max_node_title: Aurora police chief: Those who died did not deserve this - CNN Video
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ...................................................................666666666666.......................................................................
+
+7/7, max_node_title: Kamala Harris shopping trip stirs Twitter campaign trail debate | TheHill (max_node_title repeated 3 of 3 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=3&hist=144&t=2019-02-17T00:36:12
+From: 2019-02-17T00:36:12Z to 2019-02-17T00:56:04Z (0hrs 19min 51 sec), maxgraph max CC avg. deg: 3.6
+Maxgraph max CC max_node_title: Kamala Harris shopping trip stirs Twitter campaign trail debate | TheHill
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ..............................................................................777.....................................................................
+
+All pulses: ..............................⊛ᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥ66666666666777⁜⁜⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜●●●●●●●●●⁜⁜⁜⁜⁜⁜⁜⁜⁜......
+

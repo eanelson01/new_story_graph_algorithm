@@ -1,0 +1,253 @@
+
+StoryGraphToolkit, tool: maxgraph
+
+Generating maxgraphs from 2020-07-19 00:00:00 to 2020-07-19 14:55:57
+Calculating maxgraph for date: 2020-07-19
+	get_timezone_aware_graphs() rm date: 2020-07-19 14:56:29 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:07:03 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:16:36 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:26:56 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:36:38 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:46:28 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:56:43 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:06:40 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:16:28 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:29:35 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:38:27 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:46:55 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:56:07 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:06:32 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:16:13 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:26:17 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:36:33 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:46:41 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:56:23 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:06:28 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:16:18 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:28:36 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:36:48 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:47:06 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:57:40 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:06:11 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:17:11 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:28:28 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:35:47 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:46:36 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:56:16 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:06:13 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:16:24 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:26:37 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:36:53 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:46:54 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:56:28 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:06:32 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:16:15 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:26:13 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:36:22 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:46:59 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:55:45 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:06:13 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:17:57 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:28:19 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:38:31 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:46:33 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:55:59 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:07:28 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:17:07 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:26:55 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:37:15 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:46:43 > 2020-07-19 14:55:57
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:56:47 > 2020-07-19 14:55:57
+	download_graph_at_byteoffset() at: 2020-07-19T06:45:41.138350Z, bytes=5412121-5559394
+	download_graph_at_byteoffset() at: 2020-07-19T10:05:40.326031Z, bytes=8537599-8696359
+	download_graph_at_byteoffset() at: 2020-07-19T13:25:29.811476Z, bytes=11755096-11918046
+	download_graph_at_byteoffset() at: 2020-07-19T16:46:09.820253Z, bytes=15108443-15274954
+
+Day: 2020-07-19, clustered 89 graphs with similar links into 17 initial subgraph clusters
+
+Day: 2020-07-19, graphs with similar links were clustered into 17 initial subgraphs clusters
+Attempting to further cluster 17 initial subgraph clusters based on similar sumgrams
+	sumgram for pair: 1 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 2 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 3 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 4 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 5 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 6 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 7 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 8 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 9 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 10 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 11 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 12 of 136 (17 Comb. 2), ov: 0.89
+	sumgram for pair: 13 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 14 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 15 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 16 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 17 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 18 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 19 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 20 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 21 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 22 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 23 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 24 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 25 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 26 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 27 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 28 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 29 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 30 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 31 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 32 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 33 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 34 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 35 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 36 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 37 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 38 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 39 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 40 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 41 of 136 (17 Comb. 2), ov: 0.2
+	sumgram for pair: 42 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 43 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 44 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 45 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 46 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 47 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 48 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 49 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 50 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 51 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 52 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 53 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 54 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 55 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 56 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 57 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 58 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 59 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 60 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 61 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 62 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 63 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 64 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 65 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 66 of 136 (17 Comb. 2), ov: 0.11
+	sumgram for pair: 67 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 68 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 69 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 70 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 71 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 72 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 73 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 74 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 75 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 76 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 77 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 78 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 79 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 80 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 81 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 82 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 83 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 84 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 85 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 86 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 87 of 136 (17 Comb. 2), ov: 0.2
+	sumgram for pair: 88 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 89 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 90 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 91 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 92 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 93 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 94 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 95 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 96 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 97 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 98 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 99 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 100 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 101 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 102 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 103 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 104 of 136 (17 Comb. 2), ov: 0.11
+	sumgram for pair: 105 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 106 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 107 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 108 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 109 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 110 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 111 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 112 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 113 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 114 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 115 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 116 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 117 of 136 (17 Comb. 2), ov: 0.89
+	sumgram for pair: 118 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 119 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 120 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 121 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 122 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 123 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 124 of 136 (17 Comb. 2), ov: 1.0
+	sumgram for pair: 125 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 126 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 127 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 128 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 129 of 136 (17 Comb. 2), ov: 0.8
+	sumgram for pair: 130 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 131 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 132 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 133 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 134 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 135 of 136 (17 Comb. 2), ov: 0.0
+	sumgram for pair: 136 of 136 (17 Comb. 2), ov: 0.0
+Initial subgraphs: [{0, 10, 12, 15}, {1, 3, 5, 7, 9, 11, 14}, {8, 2, 4, 6}]
+Singletons: [13, 16]
+Subgraphs post adding singletons: [{0, 10, 12, 15}, {1, 3, 5, 7, 9, 11, 14}, {8, 2, 4, 6}, {13}, {16}]
+Clustered 17 initial subgraph clusters into 5 subgraph clusters
+	dumpJsonToFile(), wrote: ./sgbot_17/tmp/current_storygraphdata.json
+
+RANKED LIST OF STORIES
+
+date: 2020-07-19, 5 (--maxstory-count=5) stories
+
+
+1/5, max_node_title: Homeland Security Official Defends Portland 'Kidnappings' Amid Calls For Investigation | HuffPost (max_node_title repeated 43 of 43 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=61&hist=144&t=2020-07-19T10:15:44
+From: 2020-07-19T04:25:45Z to 2020-07-19T15:06:41Z (10hrs 40min 56 sec), maxgraph max CC avg. deg: 3.14
+Maxgraph max CC max_node_title: Homeland Security Official Defends Portland 'Kidnappings' Amid Calls For Investigation | HuffPost
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ..........................●●●..●.●..●●.●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●.........●●●.......
+
+2/5, max_node_title: Mitch McConnell Praises John Lewis While Blocking The Voting Rights Act (max_node_title repeated 35 of 37 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=24&hist=144&t=2020-07-19T04:05:06
+From: 2020-07-19T04:05:06Z to 2020-07-19T18:26:26Z (14hrs 21min 19 sec), maxgraph max CC avg. deg: 2.62
+Maxgraph max CC max_node_title: Mitch McConnell Praises John Lewis While Blocking The Voting Rights Act
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ........................⁜⁜............................................⁜⁜⁜⁜⁜⁜⁜⁜⁜...⁜⁜⁜⁜⁜⁜.
+
+3/5, max_node_title: Politicians and activists praise Rep. John Lewis’s legacy of “good trouble” - Vox (max_node_title repeated 6 of 6 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=38&hist=144&t=2020-07-19T06:25:46
+From: 2020-07-19T04:55:09Z to 2020-07-19T06:25:46Z (1hrs 30min 37 sec), maxgraph max CC avg. deg: 2.38
+Maxgraph max CC max_node_title: Politicians and activists praise Rep. John Lewis’s legacy of “good trouble” - Vox
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .............................⚂⚂.⚂.⚂⚂..⚂..................................................
+
+4/5, max_node_title: Trump Doubles Down On Claim Coronavirus Will Disappear: 'I'll Be Right Eventually' | HuffPost (max_node_title repeated 2 of 2 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=112&hist=144&t=2020-07-19T18:46:35
+From: 2020-07-19T18:36:24Z to 2020-07-19T18:46:35Z (0hrs 10min 10 sec), maxgraph max CC avg. deg: 2.25
+Maxgraph max CC max_node_title: Trump Doubles Down On Claim Coronavirus Will Disappear: 'I'll Be Right Eventually' | HuffPost
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .........................................................................................
+
+5/5, max_node_title: Trump says he still has good relationship with 'alarmist' Fauci (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=88&hist=144&t=2020-07-19T14:46:24
+From: 2020-07-19T14:46:24Z to 2020-07-19T14:46:24Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.0
+Maxgraph max CC max_node_title: Trump says he still has good relationship with 'alarmist' Fauci
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ........................................................................................⊛
+
+All pulses: ........................⁜⁜●●●⚂⚂●⚂●⚂⚂●●⚂●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●⁜⁜⁜⁜⁜⁜⁜⁜⁜●●●⁜⁜⁜⁜⁜⁜⊛
+

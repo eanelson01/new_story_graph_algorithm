@@ -1,0 +1,209 @@
+
+StoryGraphToolkit, tool: maxgraph
+
+Generating maxgraphs from 2020-07-18 00:00:00 to 2020-07-19 00:53:08
+Calculating maxgraph for date: 2020-07-18
+	download_graph_at_byteoffset() at: 2020-07-18T06:43:49.707489Z, bytes=5235767-5357454
+	download_graph_at_byteoffset() at: 2020-07-18T10:03:29.247984Z, bytes=7956827-8095557
+	download_graph_at_byteoffset() at: 2020-07-18T13:23:50.365102Z, bytes=11081790-11263436
+	download_graph_at_byteoffset() at: 2020-07-18T16:44:14.614227Z, bytes=14472580-14625715
+	download_graph_at_byteoffset() at: 2020-07-18T20:04:01.372293Z, bytes=17738432-17913811
+	download_graph_at_byteoffset() at: 2020-07-18T23:24:43.228859Z, bytes=20855321-20993102
+	download_graph_at_byteoffset() at: 2020-07-19T00:05:06.755124Z, bytes=0-142951
+	download_graph_at_byteoffset() at: 2020-07-19T03:24:54.630350Z, bytes=2666247-2804757
+Calculating maxgraph for date: 2020-07-19
+	get_timezone_aware_graphs() rm date: 2020-07-19 00:55:09 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 01:05:15 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 01:15:22 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 01:25:11 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 01:35:07 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 01:45:15 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 01:54:47 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 02:05:41 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 02:15:15 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 02:25:46 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 02:35:28 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 02:45:41 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 02:55:32 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 03:06:11 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 03:15:25 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 03:25:37 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 03:34:59 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 03:45:27 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 03:54:31 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 04:05:15 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 04:15:36 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 04:24:53 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 04:35:29 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 04:45:17 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 04:55:42 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 05:05:33 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 05:15:40 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 05:25:58 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 05:35:59 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 05:45:42 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 05:55:46 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 06:05:40 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 06:15:44 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 06:26:16 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 06:35:47 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 06:45:17 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 06:56:04 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 07:05:23 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 07:15:26 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 07:25:22 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 07:35:07 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 07:45:57 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 07:55:00 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 08:05:50 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 08:16:04 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 08:25:38 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 08:36:09 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 08:45:53 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 08:55:57 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 09:05:30 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 09:15:51 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 09:25:29 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 09:36:23 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 09:50:03 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 09:55:53 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 10:05:56 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 10:15:20 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 10:26:08 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 10:36:26 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 10:46:24 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 10:55:57 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 11:06:41 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 11:16:33 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 11:25:58 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 11:36:16 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 11:45:54 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 11:55:49 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 12:06:22 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 12:16:07 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 12:25:36 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 12:36:12 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 12:46:09 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 12:56:28 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 13:05:57 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 13:17:06 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 13:26:11 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 13:36:53 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 13:45:40 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 13:56:06 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 14:06:38 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 14:16:10 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 14:26:26 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 14:36:24 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 14:46:35 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 14:56:29 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:07:03 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:16:36 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:26:56 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:36:38 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:46:28 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 15:56:43 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:06:40 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:16:28 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:29:35 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:38:27 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:46:55 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 16:56:07 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:06:32 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:16:13 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:26:17 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:36:33 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:46:41 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 17:56:23 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:06:28 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:16:18 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:28:36 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:36:48 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:47:06 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 18:57:40 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:06:11 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:17:11 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:28:28 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:35:47 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:46:36 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 19:56:16 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:06:13 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:16:24 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:26:37 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:36:53 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:46:54 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 20:56:28 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:06:32 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:16:15 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:26:13 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:36:22 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:46:59 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 21:55:45 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:06:13 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:17:57 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:28:19 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:38:31 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:46:33 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 22:55:59 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:07:28 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:17:07 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:26:55 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:37:15 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:46:43 > 2020-07-19 00:53:08
+	get_timezone_aware_graphs() rm date: 2020-07-19 23:56:47 > 2020-07-19 00:53:08
+
+Day: YYYY-MM-DD, clustered 149 graphs with similar links into 5 initial subgraph clusters
+
+Day: YYYY-MM-DD, graphs with similar links were clustered into 5 initial subgraphs clusters
+Attempting to further cluster 5 initial subgraph clusters based on similar sumgrams
+	sumgram for pair: 1 of 10 (5 Comb. 2), ov: 0.0
+	sumgram for pair: 2 of 10 (5 Comb. 2), ov: 0.0
+	sumgram for pair: 3 of 10 (5 Comb. 2), ov: 0.0
+	sumgram for pair: 4 of 10 (5 Comb. 2), ov: 0.0
+	sumgram for pair: 5 of 10 (5 Comb. 2), ov: 0.0
+	sumgram for pair: 6 of 10 (5 Comb. 2), ov: 0.11
+	sumgram for pair: 7 of 10 (5 Comb. 2), ov: 0.0
+	sumgram for pair: 8 of 10 (5 Comb. 2), ov: 0.0
+	sumgram for pair: 9 of 10 (5 Comb. 2), ov: 1.0
+	sumgram for pair: 10 of 10 (5 Comb. 2), ov: 0.0
+Initial subgraphs: [{2, 4}]
+Singletons: [0, 1, 3]
+Subgraphs post adding singletons: [{2, 4}, {0}, {1}, {3}]
+Clustered 5 initial subgraph clusters into 4 subgraph clusters
+	dumpJsonToFile(), wrote: ./sgbot_17/tmp/multi-day-clust.json
+
+RANKED LIST OF STORIES
+
+date: YYYY-MM-DD, 4 (--maxstory-count=4) stories
+
+
+1/4, max_node_title: John Lewis, Towering Figure of Civil Rights Era, Dies at 80 - The New York Times (max_node_title repeated 100 of 142 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=48&hist=144&t=2020-07-18T08:03:39
+From: 2020-07-18T04:13:34Z to 2020-07-19T03:45:15Z (23hrs 31min 41 sec), maxgraph max CC avg. deg: 6.67
+Maxgraph max CC max_node_title: John Lewis, Towering Figure of Civil Rights Era, Dies at 80 - The New York Times
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .........................●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●.....
+
+2/4, max_node_title: Sen. Jeff Merkley Tells Trump To Get His DHS Lackeys Out Of Oregon (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=24&hist=144&t=2020-07-18T04:03:08
+From: 2020-07-18T04:03:08Z to 2020-07-18T04:03:08Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.8
+Maxgraph max CC max_node_title: Sen. Jeff Merkley Tells Trump To Get His DHS Lackeys Out Of Oregon
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ........................⁜............................................................................................................................
+
+3/4, max_node_title: Mitch McConnell Praises John Lewis While Blocking The Voting Rights Act (max_node_title repeated 2 of 2 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=24&hist=144&t=2020-07-19T04:05:06
+From: 2020-07-19T04:05:06Z to 2020-07-19T04:15:04Z (0hrs 09min 57 sec), maxgraph max CC avg. deg: 2.62
+Maxgraph max CC max_node_title: Mitch McConnell Praises John Lewis While Blocking The Voting Rights Act
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ..................................................................................................⚂⚂.................................................
+
+4/4, max_node_title: Homeland Security Official Defends Portland 'Kidnappings' Amid Calls For Investigation | HuffPost (max_node_title repeated 4 of 4 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=23&hist=144&t=2020-07-19T03:55:04
+From: 2020-07-19T03:55:04Z to 2020-07-19T04:45:07Z (0hrs 50min 03 sec), maxgraph max CC avg. deg: 2.33
+Maxgraph max CC max_node_title: Homeland Security Official Defends Portland 'Kidnappings' Amid Calls For Investigation | HuffPost
+Clusterer: sgdata.same_day_non_seq_cluster_by_title_sumgrams
+Pulse: .................................................................................................ᛥ..ᛥᛥᛥ..............................................
+
+All pulses: ........................⁜●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●ᛥ⚂⚂ᛥᛥᛥ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●.....
+

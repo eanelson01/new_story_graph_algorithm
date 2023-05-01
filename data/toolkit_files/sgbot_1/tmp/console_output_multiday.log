@@ -1,0 +1,593 @@
+
+StoryGraphToolkit, tool: maxgraph
+
+Generating maxgraphs from 2018-02-07 00:00:00 to 2018-02-08 01:03:52
+Calculating maxgraph for date: 2018-02-07
+	download_graph_at_byteoffset() at: 2018-02-07T06:42:45.668516Z, bytes=6770825-6941628
+	download_graph_at_byteoffset() at: 2018-02-07T10:02:58.737635Z, bytes=10158871-10325136
+	download_graph_at_byteoffset() at: 2018-02-07T13:23:20.430463Z, bytes=12952021-13083436
+	download_graph_at_byteoffset() at: 2018-02-07T16:44:16.556297Z, bytes=15531736-15649266
+	download_graph_at_byteoffset() at: 2018-02-07T20:04:02.434988Z, bytes=18189778-18319031
+	download_graph_at_byteoffset() at: 2018-02-08T00:04:32.006570Z, bytes=0-121380
+	download_graph_at_byteoffset() at: 2018-02-07T23:24:25.388471Z, bytes=21021217-21155317
+	download_graph_at_byteoffset() at: 2018-02-08T03:24:48.035621Z, bytes=2597017-2734074
+Calculating maxgraph for date: 2018-02-08
+	get_timezone_aware_graphs() rm date: 2018-02-08 01:05:03 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 01:15:05 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 01:25:08 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 01:35:12 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 01:45:09 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 01:55:15 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 02:05:12 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 02:15:11 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 02:25:15 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 02:35:16 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 02:45:21 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 02:55:22 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 03:05:17 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 03:15:23 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 03:25:25 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 03:35:24 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 03:45:23 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 03:55:24 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 04:05:28 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 04:15:22 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 04:25:30 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 04:35:32 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 04:45:26 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 04:55:28 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 05:05:32 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 05:15:29 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 05:25:38 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 05:35:32 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 05:45:38 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 05:55:37 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 06:05:38 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 06:15:34 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 06:25:41 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 06:35:39 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 06:45:43 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 06:55:45 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 07:05:33 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 07:15:39 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 07:25:39 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 07:35:40 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 07:45:43 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 07:55:43 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 08:05:43 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 08:15:49 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 08:25:46 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 08:35:52 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 08:45:44 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 08:55:48 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 09:05:51 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 09:15:54 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 09:25:57 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 09:35:58 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 09:46:10 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 09:55:59 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 10:05:53 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 10:15:58 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 10:25:55 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 10:36:02 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 10:46:03 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 10:56:00 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 11:06:01 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 11:16:03 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 11:26:06 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 11:35:57 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 11:46:02 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 11:56:05 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 12:06:05 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 12:16:09 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 12:26:07 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 12:36:06 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 12:46:22 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 12:56:09 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 13:06:21 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 13:16:11 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 13:26:15 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 13:36:16 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 13:46:20 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 13:56:24 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 14:06:21 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 14:16:26 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 14:26:22 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 14:36:24 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 14:46:24 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 14:56:26 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 15:06:24 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 15:16:28 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 15:26:29 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 15:36:30 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 15:46:31 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 15:56:29 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 16:06:26 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 16:16:29 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 16:26:32 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 16:36:37 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 16:46:36 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 16:56:39 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 17:06:32 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 17:16:41 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 17:26:38 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 17:36:39 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 17:46:47 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 17:56:44 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 18:06:45 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 18:16:47 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 18:26:46 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 18:36:51 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 18:46:51 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 18:56:57 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 19:06:49 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 19:16:58 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 19:26:52 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 19:36:53 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 19:46:56 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 19:56:53 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 20:06:55 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 20:17:06 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 20:27:00 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 20:37:05 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 20:46:59 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 20:57:14 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 21:07:06 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 21:16:56 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 21:26:56 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 21:37:13 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 21:47:07 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 21:57:02 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 22:06:59 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 22:17:08 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 22:27:07 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 22:37:15 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 22:47:11 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 22:57:31 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 23:07:16 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 23:17:14 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 23:27:17 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 23:37:17 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 23:47:19 > 2018-02-08 01:03:52
+	get_timezone_aware_graphs() rm date: 2018-02-08 23:57:27 > 2018-02-08 01:03:52
+
+Day: YYYY-MM-DD, clustered 150 graphs with similar links into 26 initial subgraph clusters
+
+Day: YYYY-MM-DD, graphs with similar links were clustered into 26 initial subgraphs clusters
+Attempting to further cluster 26 initial subgraph clusters based on similar sumgrams
+	sumgram for pair: 1 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 2 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 3 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 4 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 5 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 6 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 7 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 8 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 9 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 10 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 11 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 12 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 13 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 14 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 15 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 16 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 17 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 18 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 19 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 20 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 21 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 22 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 23 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 24 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 25 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 26 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 27 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 28 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 29 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 30 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 31 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 32 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 33 of 325 (26 Comb. 2), ov: 0.14
+	sumgram for pair: 34 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 35 of 325 (26 Comb. 2), ov: 0.14
+	sumgram for pair: 36 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 37 of 325 (26 Comb. 2), ov: 0.14
+	sumgram for pair: 38 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 39 of 325 (26 Comb. 2), ov: 0.14
+	sumgram for pair: 40 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 41 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 42 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 43 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 44 of 325 (26 Comb. 2), ov: 0.12
+	sumgram for pair: 45 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 46 of 325 (26 Comb. 2), ov: 0.11
+	sumgram for pair: 47 of 325 (26 Comb. 2), ov: 0.11
+	sumgram for pair: 48 of 325 (26 Comb. 2), ov: 0.11
+	sumgram for pair: 49 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 50 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 51 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 52 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 53 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 54 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 55 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 56 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 57 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 58 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 59 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 60 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 61 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 62 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 63 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 64 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 65 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 66 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 67 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 68 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 69 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 70 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 71 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 72 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 73 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 74 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 75 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 76 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 77 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 78 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 79 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 80 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 81 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 82 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 83 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 84 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 85 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 86 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 87 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 88 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 89 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 90 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 91 of 325 (26 Comb. 2), ov: 0.11
+	sumgram for pair: 92 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 93 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 94 of 325 (26 Comb. 2), ov: 0.11
+	sumgram for pair: 95 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 96 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 97 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 98 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 99 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 100 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 101 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 102 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 103 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 104 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 105 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 106 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 107 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 108 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 109 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 110 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 111 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 112 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 113 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 114 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 115 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 116 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 117 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 118 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 119 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 120 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 121 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 122 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 123 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 124 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 125 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 126 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 127 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 128 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 129 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 130 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 131 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 132 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 133 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 134 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 135 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 136 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 137 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 138 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 139 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 140 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 141 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 142 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 143 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 144 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 145 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 146 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 147 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 148 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 149 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 150 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 151 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 152 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 153 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 154 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 155 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 156 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 157 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 158 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 159 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 160 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 161 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 162 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 163 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 164 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 165 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 166 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 167 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 168 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 169 of 325 (26 Comb. 2), ov: 0.1
+	sumgram for pair: 170 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 171 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 172 of 325 (26 Comb. 2), ov: 0.1
+	sumgram for pair: 173 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 174 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 175 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 176 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 177 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 178 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 179 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 180 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 181 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 182 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 183 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 184 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 185 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 186 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 187 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 188 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 189 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 190 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 191 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 192 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 193 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 194 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 195 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 196 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 197 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 198 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 199 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 200 of 325 (26 Comb. 2), ov: 0.14
+	sumgram for pair: 201 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 202 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 203 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 204 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 205 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 206 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 207 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 208 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 209 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 210 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 211 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 212 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 213 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 214 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 215 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 216 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 217 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 218 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 219 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 220 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 221 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 222 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 223 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 224 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 225 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 226 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 227 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 228 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 229 of 325 (26 Comb. 2), ov: 0.14
+	sumgram for pair: 230 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 231 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 232 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 233 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 234 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 235 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 236 of 325 (26 Comb. 2), ov: 0.12
+	sumgram for pair: 237 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 238 of 325 (26 Comb. 2), ov: 0.38
+	sumgram for pair: 239 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 240 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 241 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 242 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 243 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 244 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 245 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 246 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 247 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 248 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 249 of 325 (26 Comb. 2), ov: 1.0
+	sumgram for pair: 250 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 251 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 252 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 253 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 254 of 325 (26 Comb. 2), ov: 0.14
+	sumgram for pair: 255 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 256 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 257 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 258 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 259 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 260 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 261 of 325 (26 Comb. 2), ov: 0.33
+	sumgram for pair: 262 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 263 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 264 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 265 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 266 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 267 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 268 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 269 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 270 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 271 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 272 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 273 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 274 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 275 of 325 (26 Comb. 2), ov: 0.14
+	sumgram for pair: 276 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 277 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 278 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 279 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 280 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 281 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 282 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 283 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 284 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 285 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 286 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 287 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 288 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 289 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 290 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 291 of 325 (26 Comb. 2), ov: 0.38
+	sumgram for pair: 292 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 293 of 325 (26 Comb. 2), ov: 0.12
+	sumgram for pair: 294 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 295 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 296 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 297 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 298 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 299 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 300 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 301 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 302 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 303 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 304 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 305 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 306 of 325 (26 Comb. 2), ov: 0.2
+	sumgram for pair: 307 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 308 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 309 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 310 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 311 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 312 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 313 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 314 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 315 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 316 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 317 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 318 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 319 of 325 (26 Comb. 2), ov: 0.0
+	sumgram for pair: 320 of 325 (26 Comb. 2), ov: 0.7
+	sumgram for pair: 321 of 325 (26 Comb. 2), ov: 0.6
+	sumgram for pair: 322 of 325 (26 Comb. 2), ov: 0.2
+	sumgram for pair: 323 of 325 (26 Comb. 2), ov: 0.8
+	sumgram for pair: 324 of 325 (26 Comb. 2), ov: 0.2
+	sumgram for pair: 325 of 325 (26 Comb. 2), ov: 0.0
+Initial subgraphs: [{2, 5}, {3, 7}, {8, 4, 6}, {9, 11, 13, 15}, {16, 12, 14}, {17, 19}, {24, 22, 23}]
+Singletons: [0, 1, 10, 18, 20, 21, 25]
+Subgraphs post adding singletons: [{2, 5}, {3, 7}, {8, 4, 6}, {9, 11, 13, 15}, {16, 12, 14}, {17, 19}, {24, 22, 23}, {0}, {1}, {10}, {18}, {20}, {21}, {25}]
+Clustered 26 initial subgraph clusters into 14 subgraph clusters
+
+RANKED LIST OF STORIES
+
+date: YYYY-MM-DD, 14 (--maxstory-count=14) stories
+
+
+1/14, max_node_title: Senate leaders reach sweeping spending deal - ABC News (max_node_title repeated 22 of 32 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=132&hist=144&t=2018-02-07T22:04:22
+From: 2018-02-07T19:03:52Z to 2018-02-08T00:14:33Z (5hrs 10min 40 sec), maxgraph max CC avg. deg: 6.0
+Maxgraph max CC max_node_title: Senate leaders reach sweeping spending deal - ABC News
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ...........................................................................●●.....................................●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●......
+
+2/14, max_node_title: Senior White House official to resign after ex-wives’ allegations of abuse - The Washington Post (max_node_title repeated 16 of 34 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=22&hist=144&t=2018-02-08T03:44:55
+From: 2018-02-08T00:24:30Z to 2018-02-08T05:55:04Z (5hrs 30min 34 sec), maxgraph max CC avg. deg: 6.0
+Maxgraph max CC max_node_title: White House scrambles to contain Porter fallout - CNNPolitics
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .............................................................................⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜.......................................
+
+3/14, max_node_title: Latest FBI Texts: 'Hillbillys,' 'OUR Task,' Obama 'Wants to Know Everything' (max_node_title repeated 6 of 15 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=102&hist=144&t=2018-02-07T17:04:29
+From: 2018-02-07T16:34:26Z to 2018-02-07T18:53:51Z (2hrs 19min 25 sec), maxgraph max CC avg. deg: 4.75
+Maxgraph max CC max_node_title: FLASHBACK=> Obama Claims “I DO NOT Talk To FBI Directors About Pending Investigations” (VIDEO)
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ...................................................................................................⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂....................................
+
+4/14, max_node_title: Hero or hired gun? How a British former spy became a flash point in the Russia investigation. - The Washington Post (max_node_title repeated 9 of 10 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=32&hist=144&t=2018-02-07T05:22:29
+From: 2018-02-07T05:02:41Z to 2018-02-07T06:33:07Z (1hrs 30min 26 sec), maxgraph max CC avg. deg: 4.0
+Maxgraph max CC max_node_title: Hero or hired gun? How a British former spy became a flash point in the Russia investigation. - The Washington Post
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ..............................ᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥ..............................................................................................................
+
+5/14, max_node_title: TRUMP WAS RIGHT=> Obama Was Spying on Trump Tower and NOW THERE IS PROOF (max_node_title repeated 5 of 16 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=97&hist=144&t=2018-02-07T16:14:03
+From: 2018-02-07T13:33:16Z to 2018-02-07T16:14:03Z (2hrs 40min 47 sec), maxgraph max CC avg. deg: 3.2
+Maxgraph max CC max_node_title: TRUMP WAS RIGHT=> Obama Was Spying on Trump Tower and NOW THERE IS PROOF
+Clusterer: sgdata.same_day_non_seq_cluster_by_title_sumgrams
+Pulse: .................................................................................⊛.⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛....................................................
+
+6/14, max_node_title: Trump called for a government shutdown over immigration, and it makes no sense - Vox (max_node_title repeated 9 of 9 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=62&hist=144&t=2018-02-07T10:23:02
+From: 2018-02-07T08:42:52Z to 2018-02-07T10:33:05Z (1hrs 50min 13 sec), maxgraph max CC avg. deg: 3.14
+Maxgraph max CC max_node_title: Trump called for a government shutdown over immigration, and it makes no sense - Vox
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ....................................................666.6666..66......................................................................................
+
+7/14, max_node_title: US to impose 'toughest ever' sanctions on North Korea, Pence warns - CNNPolitics (max_node_title repeated 6 of 11 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=68&hist=144&t=2018-02-07T11:23:07
+From: 2018-02-07T11:23:07Z to 2018-02-07T13:23:20Z (2hrs 00min 12 sec), maxgraph max CC avg. deg: 3.14
+Maxgraph max CC max_node_title: US to impose 'toughest ever' sanctions on North Korea, Pence warns - CNNPolitics
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ....................................................................777777.777.77.....................................................................
+
+8/14, max_node_title: Kim Jong Un's sister joins North Korean Olympic delegation - CNN (max_node_title repeated 2 of 2 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=65&hist=144&t=2018-02-07T10:53:09
+From: 2018-02-07T10:53:09Z to 2018-02-07T11:03:03Z (0hrs 09min 53 sec), maxgraph max CC avg. deg: 3.14
+Maxgraph max CC max_node_title: Kim Jong Un's sister joins North Korean Olympic delegation - CNN
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .................................................................88...................................................................................
+
+9/14, max_node_title: Grassley-Graham Memo: Dossier Author Christopher Steele Lied to FBI, FBI Didn't Tell FISA Court - Breitbart (max_node_title repeated 2 of 2 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=50&hist=144&t=2018-02-07T08:22:56
+From: 2018-02-07T08:22:56Z to 2018-02-07T09:13:00Z (0hrs 50min 03 sec), maxgraph max CC avg. deg: 3.0
+Maxgraph max CC max_node_title: Grassley-Graham Memo: Dossier Author Christopher Steele Lied to FBI, FBI Didn't Tell FISA Court - Breitbart
+Clusterer: sgdata.same_day_non_seq_cluster_by_title_sumgrams
+Pulse: ..................................................9....9..............................................................................................
+
+10/14, max_node_title: White House Confirms Donald Trump Wish for Military Appreciation Parade - Breitbart (max_node_title repeated 3 of 3 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=51&hist=144&t=2018-02-07T08:32:52
+From: 2018-02-07T08:32:52Z to 2018-02-07T10:13:06Z (1hrs 40min 13 sec), maxgraph max CC avg. deg: 3.0
+Maxgraph max CC max_node_title: White House Confirms Donald Trump Wish for Military Appreciation Parade - Breitbart
+Clusterer: sgdata.same_day_non_seq_cluster_by_title_sumgrams
+Pulse: ...................................................*........**........................................................................................
+
+11/14, max_node_title: Trump asked the Pentagon to start planning a military parade  - Vox (max_node_title repeated 4 of 4 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=64&hist=144&t=2018-02-07T10:42:59
+From: 2018-02-07T10:42:59Z to 2018-02-07T13:03:15Z (2hrs 20min 15 sec), maxgraph max CC avg. deg: 3.0
+Maxgraph max CC max_node_title: Trump asked the Pentagon to start planning a military parade  - Vox
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ................................................................*..*......*...*.......................................................................
+
+12/14, max_node_title: Trump requests Pentagon plan big military parade - ABC News (max_node_title repeated 10 of 10 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=40&hist=144&t=2018-02-07T06:42:45
+From: 2018-02-07T06:42:45Z to 2018-02-07T08:12:46Z (1hrs 30min 01 sec), maxgraph max CC avg. deg: 3.0
+Maxgraph max CC max_node_title: Trump requests Pentagon plan big military parade - ABC News	dumpJsonToFile(), wrote: ./sgbot_1/tmp/multi-day-clust.json
+
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ........................................**********....................................................................................................
+
+13/14, max_node_title: The Daily 202: Short-term spending bills epitomize congressional dysfunction and hurt the military - The Washington Post (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=82&hist=144&t=2018-02-07T13:43:28
+From: 2018-02-07T13:43:28Z to 2018-02-07T13:43:28Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.12
+Maxgraph max CC max_node_title: The Daily 202: Short-term spending bills epitomize congressional dysfunction and hurt the military - The Washington Post
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ..................................................................................*...................................................................
+
+14/14, max_node_title: Rachel Maddow Just Obliterated Trump's Military Parade By Pointing Out That You'll Pay For It (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=98&hist=144&t=2018-02-07T16:24:12
+From: 2018-02-07T16:24:12Z to 2018-02-07T16:24:12Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.0
+Maxgraph max CC max_node_title: Rachel Maddow Just Obliterated Trump's Military Parade By Pointing Out That You'll Pay For It
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ..................................................................................................*...................................................
+
+All pulses: ..............................ᛥᛥᛥᛥᛥᛥᛥᛥᛥᛥ**********9*66696666**66*88*777777*777*77⊛*⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛*⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●......
+

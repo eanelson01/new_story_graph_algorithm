@@ -1,0 +1,214 @@
+
+StoryGraphToolkit, tool: maxgraph
+
+Generating maxgraphs from 2018-07-06 00:00:00 to 2018-07-06 11:50:13
+Calculating maxgraph for date: 2018-07-06
+	get_timezone_aware_graphs() rm date: 2018-07-06 11:50:18 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:00:20 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:10:24 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:20:21 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:30:36 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:40:56 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:50:26 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:00:27 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:10:28 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:20:29 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:30:27 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:40:28 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:50:32 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:00:32 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:10:33 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:20:38 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:30:42 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:40:40 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:50:42 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:00:40 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:10:43 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:20:44 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:30:43 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:40:44 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:50:45 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:01:34 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:10:57 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:20:47 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:30:50 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:40:53 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:50:51 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:00:55 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:10:55 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:20:57 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:30:57 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:41:02 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:51:00 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:01:00 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:11:04 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:21:09 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:31:08 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:41:05 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:51:06 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:01:12 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:11:09 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:21:10 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:31:13 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:41:12 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:51:11 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:01:16 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:11:19 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:21:20 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:31:17 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:41:20 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:51:22 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:01:26 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:11:26 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:21:24 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:31:28 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:41:24 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:51:27 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:01:30 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:11:28 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:21:30 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:31:28 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:41:31 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:51:30 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:01:33 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:11:36 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:21:37 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:31:33 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:41:34 > 2018-07-06 11:50:13
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:51:36 > 2018-07-06 11:50:13
+	download_graph_at_byteoffset() at: 2018-07-06T06:50:23.189981Z, bytes=5572579-5703445
+	download_graph_at_byteoffset() at: 2018-07-06T10:10:38.607600Z, bytes=8320608-8445882
+	download_graph_at_byteoffset() at: 2018-07-06T13:30:57.449939Z, bytes=11081722-11213973
+
+Day: 2018-07-06, clustered 71 graphs with similar links into 12 initial subgraph clusters
+
+Day: 2018-07-06, graphs with similar links were clustered into 12 initial subgraphs clusters
+Attempting to further cluster 12 initial subgraph clusters based on similar sumgrams
+	sumgram for pair: 1 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 2 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 3 of 66 (12 Comb. 2), ov: 0.8
+	sumgram for pair: 4 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 5 of 66 (12 Comb. 2), ov: 0.8
+	sumgram for pair: 6 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 7 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 8 of 66 (12 Comb. 2), ov: 0.3
+	sumgram for pair: 9 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 10 of 66 (12 Comb. 2), ov: 0.4
+	sumgram for pair: 11 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 12 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 13 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 14 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 15 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 16 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 17 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 18 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 19 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 20 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 21 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 22 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 23 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 24 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 25 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 26 of 66 (12 Comb. 2), ov: 0.12
+	sumgram for pair: 27 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 28 of 66 (12 Comb. 2), ov: 0.78
+	sumgram for pair: 29 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 30 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 31 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 32 of 66 (12 Comb. 2), ov: 1.0
+	sumgram for pair: 33 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 34 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 35 of 66 (12 Comb. 2), ov: 0.3
+	sumgram for pair: 36 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 37 of 66 (12 Comb. 2), ov: 0.4
+	sumgram for pair: 38 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 39 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 40 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 41 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 42 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 43 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 44 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 45 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 46 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 47 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 48 of 66 (12 Comb. 2), ov: 0.3
+	sumgram for pair: 49 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 50 of 66 (12 Comb. 2), ov: 0.4
+	sumgram for pair: 51 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 52 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 53 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 54 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 55 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 56 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 57 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 58 of 66 (12 Comb. 2), ov: 0.12
+	sumgram for pair: 59 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 60 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 61 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 62 of 66 (12 Comb. 2), ov: 0.5
+	sumgram for pair: 63 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 64 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 65 of 66 (12 Comb. 2), ov: 0.0
+	sumgram for pair: 66 of 66 (12 Comb. 2), ov: 0.0
+Initial subgraphs: [{0, 3, 5, 8, 10}, {9, 2}]
+Singletons: [1, 4, 6, 7, 11]
+Subgraphs post adding singletons: [{0, 3, 5, 8, 10}, {9, 2}, {1}, {4}, {6}, {7}, {11}]
+Clustered 12 initial subgraph clusters into 7 subgraph clusters
+	dumpJsonToFile(), wrote: ./sgbot_2/tmp/current_storygraphdata.json
+
+RANKED LIST OF STORIES
+
+date: 2018-07-06, 7 (--maxstory-count=7) stories
+
+
+1/7, max_node_title: Former navy SEAL dies while supplying soccer team trapped in Thai cave - ABC News (max_node_title repeated 10 of 24 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=23&hist=144&t=2018-07-06T04:00:03
+From: 2018-07-06T04:00:03Z to 2018-07-06T15:00:18Z (11hrs 00min 14 sec), maxgraph max CC avg. deg: 4.0
+Maxgraph max CC max_node_title: Former navy SEAL dies while supplying soccer team trapped in Thai cave - ABC News
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .......................●●●●●●●●●●......................................
+
+2/7, max_node_title: The Daily 202: Trump’s mockery of the #MeToo movement underscores the GOP’s problem with women in 2018 - The Washington Post (max_node_title repeated 3 of 4 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=93&hist=144&t=2018-07-06T15:40:19
+From: 2018-07-06T15:10:15Z to 2018-07-06T15:40:19Z (0hrs 30min 03 sec), maxgraph max CC avg. deg: 3.14
+Maxgraph max CC max_node_title: Trump admin requests more time to reunite families separated at border | TheHill
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .......................................................................
+
+3/7, max_node_title: Warren: Trump should have fired Pruitt ‘28 scandals ago’ | TheHill (max_node_title repeated 21 of 33 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=55&hist=144&t=2018-07-06T09:19:36
+From: 2018-07-06T05:39:12Z to 2018-07-06T11:00:44Z (5hrs 21min 31 sec), maxgraph max CC avg. deg: 2.6
+Maxgraph max CC max_node_title: Warren: Trump should have fired Pruitt ‘28 scandals ago’ | TheHill
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .................................⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂.....
+
+4/7, max_node_title: The Fed is worried about a trade war (max_node_title repeated 4 of 6 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=81&hist=144&t=2018-07-06T13:40:00
+From: 2018-07-06T11:09:48Z to 2018-07-06T13:40:00Z (2hrs 30min 12 sec), maxgraph max CC avg. deg: 2.43
+Maxgraph max CC max_node_title: China accuses Trump of launching ‘the biggest trade war in economic history’ | TheHill
+Clusterer: sgdata.same_day_non_seq_cluster_by_title_sumgrams
+Pulse: ..................................................................ᛥᛥᛥᛥᛥ
+
+5/7, max_node_title: The Hill's Morning Report — Sponsored by Better Medicare Alliance — Anticipation builds for Trump’s SCOTUS pick | TheHill (max_node_title repeated 1 of 2 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=72&hist=144&t=2018-07-06T12:10:50
+From: 2018-07-06T12:10:50Z to 2018-07-06T12:20:51Z (0hrs 10min 00 sec), maxgraph max CC avg. deg: 2.3
+Maxgraph max CC max_node_title: The Hill's Morning Report — Sponsored by Better Medicare Alliance — Anticipation builds for Trump’s SCOTUS pick | TheHill
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .......................................................................
+
+6/7, max_node_title: Trump’s Trade War Against China Is Officially Underway - The New York Times (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=78&hist=144&t=2018-07-06T13:10:11
+From: 2018-07-06T13:10:11Z to 2018-07-06T13:10:11Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.15
+Maxgraph max CC max_node_title: Trump’s Trade War Against China Is Officially Underway - The New York Times
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .......................................................................
+
+7/7, max_node_title: Trump Is Reportedly Sending New Pal Kim Jong Un An Awkward Gift | HuffPost (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=77&hist=144&t=2018-07-06T13:00:54
+From: 2018-07-06T13:00:54Z to 2018-07-06T13:00:54Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.0
+Maxgraph max CC max_node_title: Trump Is Reportedly Sending New Pal Kim Jong Un An Awkward Gift | HuffPost
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .......................................................................
+
+All pulses: .......................●●●●●●●●●●⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂⚂ᛥᛥᛥᛥᛥ
+

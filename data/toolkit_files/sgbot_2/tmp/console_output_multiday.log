@@ -1,0 +1,382 @@
+
+StoryGraphToolkit, tool: maxgraph
+
+Generating maxgraphs from 2018-07-05 00:00:00 to 2018-07-06 00:49:06
+Calculating maxgraph for date: 2018-07-05
+	download_graph_at_byteoffset() at: 2018-07-05T06:48:04.808774Z, bytes=6036340-6174598
+	download_graph_at_byteoffset() at: 2018-07-05T10:08:02.421813Z, bytes=8900777-9037008
+	download_graph_at_byteoffset() at: 2018-07-05T13:28:36.203395Z, bytes=11894617-12031041
+	download_graph_at_byteoffset() at: 2018-07-05T16:48:01.488194Z, bytes=14705490-14846954
+	download_graph_at_byteoffset() at: 2018-07-05T20:09:09.434127Z, bytes=17572423-17706297
+	download_graph_at_byteoffset() at: 2018-07-05T23:29:54.301935Z, bytes=20416667-20539419
+	download_graph_at_byteoffset() at: 2018-07-06T00:09:36.960201Z, bytes=0-138498
+	download_graph_at_byteoffset() at: 2018-07-06T03:30:17.678622Z, bytes=2835424-2970999
+Calculating maxgraph for date: 2018-07-06
+	get_timezone_aware_graphs() rm date: 2018-07-06 00:49:30 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 01:00:29 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 01:09:11 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 01:20:10 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 01:29:12 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 01:39:12 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 01:50:12 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 01:59:34 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 02:09:19 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 02:20:29 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 02:30:37 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 02:40:18 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 02:50:23 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 02:59:32 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 03:10:21 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 03:19:28 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 03:30:23 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 03:39:35 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 03:50:37 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 04:00:45 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 04:09:42 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 04:20:41 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 04:29:42 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 04:40:42 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 04:49:52 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 04:59:44 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 05:10:35 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 05:19:36 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 05:30:36 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 05:40:34 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 05:50:38 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 06:00:36 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 06:10:38 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 06:21:00 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 06:30:38 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 06:39:53 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 06:49:54 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 07:00:44 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 07:09:48 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 07:20:56 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 07:31:04 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 07:40:02 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 07:50:13 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 08:01:10 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 08:10:50 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 08:20:51 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 08:29:56 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 08:39:55 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 08:51:07 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 09:00:54 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 09:10:11 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 09:20:25 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 09:30:57 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 09:40:00 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 09:51:07 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 10:00:07 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 10:10:20 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 10:20:08 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 10:30:15 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 10:40:10 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 10:50:20 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 11:00:18 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 11:10:15 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 11:20:18 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 11:30:18 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 11:40:19 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 11:50:18 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:00:20 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:10:24 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:20:21 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:30:36 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:40:56 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 12:50:26 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:00:27 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:10:28 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:20:29 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:30:27 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:40:28 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 13:50:32 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:00:32 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:10:33 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:20:38 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:30:42 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:40:40 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 14:50:42 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:00:40 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:10:43 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:20:44 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:30:43 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:40:44 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 15:50:45 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:01:34 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:10:57 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:20:47 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:30:50 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:40:53 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 16:50:51 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:00:55 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:10:55 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:20:57 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:30:57 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:41:02 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 17:51:00 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:01:00 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:11:04 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:21:09 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:31:08 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:41:05 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 18:51:06 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:01:12 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:11:09 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:21:10 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:31:13 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:41:12 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 19:51:11 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:01:16 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:11:19 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:21:20 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:31:17 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:41:20 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 20:51:22 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:01:26 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:11:26 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:21:24 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:31:28 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:41:24 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 21:51:27 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:01:30 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:11:28 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:21:30 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:31:28 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:41:31 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 22:51:30 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:01:33 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:11:36 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:21:37 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:31:33 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:41:34 > 2018-07-06 00:49:06
+	get_timezone_aware_graphs() rm date: 2018-07-06 23:51:36 > 2018-07-06 00:49:06
+
+Day: YYYY-MM-DD, clustered 148 graphs with similar links into 16 initial subgraph clusters
+
+Day: YYYY-MM-DD, graphs with similar links were clustered into 16 initial subgraphs clusters
+Attempting to further cluster 16 initial subgraph clusters based on similar sumgrams
+	sumgram for pair: 1 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 2 of 120 (16 Comb. 2), ov: 1.0
+	sumgram for pair: 3 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 4 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 5 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 6 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 7 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 8 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 9 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 10 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 11 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 12 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 13 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 14 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 15 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 16 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 17 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 18 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 19 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 20 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 21 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 22 of 120 (16 Comb. 2), ov: 0.1
+	sumgram for pair: 23 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 24 of 120 (16 Comb. 2), ov: 0.2
+	sumgram for pair: 25 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 26 of 120 (16 Comb. 2), ov: 0.1
+	sumgram for pair: 27 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 28 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 29 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 30 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 31 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 32 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 33 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 34 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 35 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 36 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 37 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 38 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 39 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 40 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 41 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 42 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 43 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 44 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 45 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 46 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 47 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 48 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 49 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 50 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 51 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 52 of 120 (16 Comb. 2), ov: 0.11
+	sumgram for pair: 53 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 54 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 55 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 56 of 120 (16 Comb. 2), ov: 0.2
+	sumgram for pair: 57 of 120 (16 Comb. 2), ov: 0.1
+	sumgram for pair: 58 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 59 of 120 (16 Comb. 2), ov: 0.11
+	sumgram for pair: 60 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 61 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 62 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 63 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 64 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 65 of 120 (16 Comb. 2), ov: 0.1
+	sumgram for pair: 66 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 67 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 68 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 69 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 70 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 71 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 72 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 73 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 74 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 75 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 76 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 77 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 78 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 79 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 80 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 81 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 82 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 83 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 84 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 85 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 86 of 120 (16 Comb. 2), ov: 0.11
+	sumgram for pair: 87 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 88 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 89 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 90 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 91 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 92 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 93 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 94 of 120 (16 Comb. 2), ov: 0.2
+	sumgram for pair: 95 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 96 of 120 (16 Comb. 2), ov: 0.1
+	sumgram for pair: 97 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 98 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 99 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 100 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 101 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 102 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 103 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 104 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 105 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 106 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 107 of 120 (16 Comb. 2), ov: 1.1
+	sumgram for pair: 108 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 109 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 110 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 111 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 112 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 113 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 114 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 115 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 116 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 117 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 118 of 120 (16 Comb. 2), ov: 0.4
+	sumgram for pair: 119 of 120 (16 Comb. 2), ov: 0.0
+	sumgram for pair: 120 of 120 (16 Comb. 2), ov: 0.0
+Initial subgraphs: [{0, 2}, {10, 12}, {13, 14}]
+Singletons: [1, 3, 4, 5, 6, 7, 8, 9, 11, 15]
+Subgraphs post adding singletons: [{0, 2}, {10, 12}, {13, 14}, {1}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {11}, {15}]
+Clustered 16 initial subgraph clusters into 13 subgraph clusters
+
+RANKED LIST OF STORIES
+
+date: YYYY-MM-DD, 13 (--maxstory-count=13) stories
+
+
+1/13, max_node_title: Scott Pruitt Resigns as EPA Chief | Breitbart (max_node_title repeated 36 of 47 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=125&hist=144&t=2018-07-05T20:58:20
+From: 2018-07-05T20:09:09Z to 2018-07-06T03:49:24Z (7hrs 40min 15 sec), maxgraph max CC avg. deg: 10.25
+Maxgraph max CC max_node_title: Scott Pruitt resigns as EPA administrator - Vox
+Clusterer: sgdata.same_day_non_seq_cluster_by_title_sumgrams
+Pulse: ..........................................................................●●●●●●●●●●●●●●●●●●●●●●●.......................●●●●●●●●●●●●●●●●●●●●●●●●....
+
+2/13, max_node_title: Trump Hires Fox News Sexual Assault Enabler Bill Shine For White House Staff (max_node_title repeated 10 of 14 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=107&hist=144&t=2018-07-05T17:59:04
+From: 2018-07-05T17:28:12Z to 2018-07-05T19:58:22Z (2hrs 30min 09 sec), maxgraph max CC avg. deg: 5.25
+Maxgraph max CC max_node_title: Ex-Fox News exec Bill Shine to join White House | TheHill
+Clusterer: sgdata.same_day_non_seq_cluster_by_title_sumgrams
+Pulse: ........................................................................................................⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜..⁜⁜⁜⁜............................
+
+3/13, max_node_title: Former navy SEAL dies while supplying soccer team trapped in Thai cave - ABC News (max_node_title repeated 5 of 5 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=23&hist=144&t=2018-07-06T04:00:03
+From: 2018-07-06T04:00:03Z to 2018-07-06T04:39:07Z (0hrs 39min 03 sec), maxgraph max CC avg. deg: 4.0
+Maxgraph max CC max_node_title: Former navy SEAL dies while supplying soccer team trapped in Thai cave - ABC News
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .................................................................................................⚂⚂⚂⚂⚂..............................................
+
+4/13, max_node_title: Donald Trump has no answers for the border crisis. And things are about to get worse. - CNNPolitics (max_node_title repeated 2 of 2 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=115&hist=144&t=2018-07-05T19:18:05
+From: 2018-07-05T19:09:12Z to 2018-07-05T19:18:05Z (0hrs 08min 53 sec), maxgraph max CC avg. deg: 3.71
+Maxgraph max CC max_node_title: Donald Trump has no answers for the border crisis. And things are about to get worse. - CNNPolitics
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ..................................................................................................................ᛥᛥ................................
+
+5/13, max_node_title: Supreme Court: Trump has three reported finalists  - Vox (max_node_title repeated 4 of 6 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=99&hist=144&t=2018-07-05T16:37:57
+From: 2018-07-05T16:08:05Z to 2018-07-05T16:58:56Z (0hrs 50min 51 sec), maxgraph max CC avg. deg: 3.6
+Maxgraph max CC max_node_title: Supreme Court: Trump has three reported finalists  - Vox
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ................................................................................................⊛⊛⊛⊛⊛⊛..............................................
+
+6/13, max_node_title: President Trump Shares Incredible Photos From 4th Of July White House Celebration | The Daily Caller (max_node_title repeated 41 of 41 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=24&hist=144&t=2018-07-05T04:07:32
+From: 2018-07-05T04:07:32Z to 2018-07-05T11:48:25Z (7hrs 40min 53 sec), maxgraph max CC avg. deg: 2.57
+Maxgraph max CC max_node_title: President Trump Shares Incredible Photos From 4th Of July White House Celebration | The Daily Caller
+Clusterer: sgdata.same_day_non_seq_cluster_by_title_sumgrams
+Pulse: ........................66666666666......666666666666666666666666666666.............................................................................
+
+7/13, max_node_title: 2 poisoned by same nerve agent used on ex-spy, authorities say | Fox News (max_node_title repeated 4 of 6 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=35&hist=144&t=2018-07-05T05:56:35
+From: 2018-07-05T05:56:35Z to 2018-07-05T06:48:04Z (0hrs 51min 29 sec), maxgraph max CC avg. deg: 2.5
+Maxgraph max CC max_node_title: Two British Citizens Poisoned With Nerve Agent That Struck Down Ex-Russian Spy | HuffPost
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ...................................777777...........................................................................................................
+
+8/13, max_node_title: The Daily 202: 10 stories illuminate the Trump doctrine on foreign policy - The Washington Post (max_node_title repeated 3 of 5 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=94&hist=144&t=2018-07-05T15:48:04
+From: 2018-07-05T15:18:13Z to 2018-07-05T15:58:41Z (0hrs 40min 27 sec), maxgraph max CC avg. deg: 2.38
+Maxgraph max CC max_node_title: The Daily 202: 10 stories illuminate the Trump doctrine on foreign policy - The Washington Post
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ...........................................................................................88888....................................................
+
+9/13, max_node_title: The Note: Trump’s golden Supreme Court opportunity - ABC News (max_node_title repeated 11 of 18 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=87&hist=144&t=2018-07-05T14:37:36
+From: 2018-07-05T12:07:21Z to 2018-07-05T14:57:57Z (2hrs 50min 35 sec), maxgraph max CC avg. deg: 2.24
+Maxgraph max CC max_node_title: The Daily 202: 10 stories illuminate the Trump doctrine on foreign policy - The Washington Post
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ........................................................................999999999999999999..........................................................
+
+10/13, max_node_title: Senate panel agrees with intel community that Putin was trying to help Trump - CNNPolitics (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=71&hist=144&t=2018-07-05T11:57:22
+From: 2018-07-05T11:57:22Z to 2018-07-05T11:57:22Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.0
+Maxgraph max CC max_node_title: Senate panel agrees with intel community that Putin was trying to help Trump - CNNPolitics
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .......................................................................*............................................................................
+
+11/13, max_node_title: Trump’s Supreme Court shortlist — and the biggest pros and cons for each pick - The Washington Post (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=103&hist=144&t=2018-07-05T17:18:01
+From: 2018-07-05T17:18:01Z to 2018-07-05T17:18:01Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 2.0
+Maxgraph max CC max_node_title: Trump’s Supreme Court shortlist — and the biggest pros and cons for each pick - The Washington Post
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: .......................................................................................................*............................................
+
+12/13, max_node_title: VIOLENT LIBERAL Assaults Teen in MAGA Hat - Tosses Large Drink On the Boy and Steals His Hat (VIDEO) (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=90&hist=144&t=2018-07-05T15:08:35
+From: 2018-07-05T15:08:35Z to 2018-07-05T15:08:35Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 1.5
+Maxgraph max CC max_node_title: VIOLENT LIBERAL Assaults Teen in MAGA Hat - Tosses Large Drink On the Boy and Steals His Hat (VIDEO)	dumpJsonToFile(), wrote: ./sgbot_2/tmp/multi-day-clust.json
+
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ..........................................................................................*.........................................................
+
+13/13, max_node_title: 'Trump baby' blimp gets OK to fly over London during Trump's visit | Fox News (max_node_title repeated 1 of 1 graphs)
+Maxgraph link: https://web.archive.org/storygraph/graphs/usa/#cursor=102&hist=144&t=2018-07-05T17:08:50
+From: 2018-07-05T17:08:50Z to 2018-07-05T17:08:50Z (0hrs 00min 00 sec), maxgraph max CC avg. deg: 1.0
+Maxgraph max CC max_node_title: 'Trump baby' blimp gets OK to fly over London during Trump's visit | Fox News
+Clusterer: sgdata.same_day_seq_cluster_by_common_links
+Pulse: ......................................................................................................*.............................................
+
+All pulses: ........................66666666666777777666666666666666666666666666666*999999999999999999*88888⊛⊛⊛⊛⊛⊛**⁜⁜⁜⁜⁜⁜⁜⁜⁜⁜ᛥᛥ⁜⁜⁜⁜●●●●●●●●●●●●●●●●●●●●●●●●....
+

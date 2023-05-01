@@ -1,0 +1,439 @@
+{
+    "start_date": "2018-06-13 00:00:00",
+    "end_date": "2018-06-13 00:34:48",
+    "daily_maxgraph_count": 0,
+    "maxgraphs": {
+        "2018-06-13": {
+            "graphs": [
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=25&hist=144&t=2018-06-13T04:15:13",
+                    "timestamp": "2018-06-13T04:15:13.575984Z",
+                    "avg_degree": 5.1,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 12,
+                        "max_node_indx": 70,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.politicususa.com/2018/06/12/democrats-flip-wisconsin-senate-seat-in-district-that-trump-won-by-18.html",
+                                "title": "Democrats Flip Wisconsin Senate Seat In District That Trump Won By 18"
+                            },
+                            {
+                                "link": "https://www.vox.com/2018/6/12/17457024/record-number-of-women-win-virginia-primary",
+                                "title": "Women dominated the Virginia Democratic primary on Tuesday - Vox"
+                            },
+                            {
+                                "link": "https://www.huffingtonpost.com/entry/caleb-frostman-wisconsin_us_5b2079ade4b09d7a3d7845e9",
+                                "title": "Democrats Score Special Election Upset In Wisconsin District Trump Won Big | HuffPost"
+                            },
+                            {
+                                "link": "https://www.vox.com/policy-and-politics/2018/6/12/17454204/primary-elections-2018-results-virginia-maine-nevada-south-carolina",
+                                "title": "Primary election results: Virginia, Nevada, Maine, South Carolina winners and losers - Vox"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/campaign/391986-sanford-i-think-that-ill-end-up-losing-this-election",
+                                "title": "Sanford: 'I think that I'll end up losing this election' | TheHill"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/tuesday-primaries-south-carolina-virginia-nevada-north-dakota-maine/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics"
+                            },
+                            {
+                                "link": "https://www.vox.com/2018/6/12/17455922/wisconsin-special-elections-results-june",
+                                "title": "Wisconsin special elections: Democrats win 2 more state legislative seats - Vox"
+                            },
+                            {
+                                "link": "https://www.vox.com/policy-and-politics/2018/6/12/17453368/south-carolina-primary-election-live-results-mark-sanford-katie-arrington",
+                                "title": "South Carolina House primary election results: Mark Sanford loses to Katie Arrington - Vox"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/campaign/391930-two-former-nevada-congressmen-set-for-rematch",
+                                "title": "Two former Nevada congressmen set for rematch | TheHill"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/state-watch/391983-dems-flip-heavy-trump-district-in-wisconsin",
+                                "title": "Dems flip heavy Trump district in Wisconsin | TheHill"
+                            },
+                            {
+                                "link": "https://www.huffingtonpost.com/entry/confederate-statue-defender-wins-gop-nomination-for-senate-in-virginia_us_5b1fee1de4b09d7a3d779079",
+                                "title": "Confederate Statue Defender Wins GOP Nomination For Senate In Virginia | HuffPost"
+                            },
+                            {
+                                "link": "http://dailycaller.com/2018/06/12/rosen-heller-win-nevada-primary/",
+                                "title": "Nevada Congresswoman Jacky Rosen Wins Democratic Senate Nomination | The Daily Caller"
+                            },
+                            {
+                                "link": "http://www.foxnews.com/politics/2018/06/13/laxalt-wins-gop-nomination-in-nevada-governor-race.html",
+                                "title": "Laxalt wins GOP nomination in Nevada governor race | Fox News"
+                            },
+                            {
+                                "link": "http://dailycaller.com/2018/06/12/adam-laxalt-wins-gop-primary-for-nevada-governor-in-landslide-victory/",
+                                "title": "Adam Laxalt Wins GOP Primary For Nevada Governor In Landslide Victory | The Daily Caller"
+                            },
+                            {
+                                "link": "http://dailycaller.com/2018/06/12/arrington-defeats-sanford-sc-primary/",
+                                "title": "Katie Arrington Defeats Mark Sanford In GOP Primary Hours After Trump Endorsement | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.washingtonpost.com/politics/primary-election-virginia-south-carolina-maine-nevada-north-dakota/2018/06/11/fbebc6d2-6da4-11e8-bd50-b80389a4e569_story.html?noredirect=on",
+                                "title": "Sanford founders in South Carolina after critical tweet from Trump - The Washington Post"
+                            },
+                            {
+                                "link": "http://www.breitbart.com/big-government/2018/06/12/live-updates-primary-night-maga-candidates-hoping-for-huge-wins/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "***Live Updates*** Primary Night: MAGA Candidates Hoping for Huge Wins | Breitbart"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/democrats-flip-state-legislative-seats/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Democrats flip 43rd state legislative seat since Trump took office  - CNNPolitics"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/virginia-senate-race-corey-stewart/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Controversial candidate Corey Stewart wins GOP nomination in Virginia Senate race - CNNPolitics"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/archie-parnell-south-carolina-primary/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Candidate who admitted to domestic abuse wins South Carolina primary - CNNPolitics"
+                            }
+                        ],
+                        "max_node_title": "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics",
+                        "max_node_link": "https://www.cnn.com/2018/06/12/politics/tuesday-primaries-south-carolina-virginia-nevada-north-dakota-maine/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                        "max_node_id": "cnn.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 25,
+                        "timestamp_tz": "2018-06-13T00:15:13",
+                        "timestamp_utc": "2018-06-13T04:15:13"
+                    },
+                    "id": "0-1",
+                    "story_idx": 0
+                },
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=24&hist=144&t=2018-06-13T04:05:16",
+                    "timestamp": "2018-06-13T04:05:16.165096Z",
+                    "avg_degree": 5.0,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 12,
+                        "max_node_indx": 70,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.politicususa.com/2018/06/12/democrats-flip-wisconsin-senate-seat-in-district-that-trump-won-by-18.html",
+                                "title": "Democrats Flip Wisconsin Senate Seat In District That Trump Won By 18"
+                            },
+                            {
+                                "link": "https://www.vox.com/2018/6/12/17457024/record-number-of-women-win-virginia-primary",
+                                "title": "Women dominated the Virginia Democratic primary on Tuesday - Vox"
+                            },
+                            {
+                                "link": "https://www.huffingtonpost.com/entry/caleb-frostman-wisconsin_us_5b2079ade4b09d7a3d7845e9",
+                                "title": "Democrats Score Special Election Upset In Wisconsin District Trump Won Big | HuffPost"
+                            },
+                            {
+                                "link": "https://www.vox.com/policy-and-politics/2018/6/12/17454204/primary-elections-2018-results-virginia-maine-nevada-south-carolina",
+                                "title": "Primary election results: Virginia, Nevada, Maine, South Carolina winners and losers - Vox"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/campaign/391986-sanford-i-think-that-ill-end-up-losing-this-election",
+                                "title": "Sanford: 'I think that I'll end up losing this election' | TheHill"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/tuesday-primaries-south-carolina-virginia-nevada-north-dakota-maine/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics"
+                            },
+                            {
+                                "link": "https://www.vox.com/2018/6/12/17455922/wisconsin-special-elections-results-june",
+                                "title": "Wisconsin special elections: Democrats win 2 more state legislative seats - Vox"
+                            },
+                            {
+                                "link": "https://www.vox.com/policy-and-politics/2018/6/12/17453368/south-carolina-primary-election-live-results-mark-sanford-katie-arrington",
+                                "title": "South Carolina House primary election results: Mark Sanford loses to Katie Arrington - Vox"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/campaign/391930-two-former-nevada-congressmen-set-for-rematch",
+                                "title": "Two former Nevada congressmen set for rematch | TheHill"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/state-watch/391983-dems-flip-heavy-trump-district-in-wisconsin",
+                                "title": "Dems flip heavy Trump district in Wisconsin | TheHill"
+                            },
+                            {
+                                "link": "https://www.huffingtonpost.com/entry/confederate-statue-defender-wins-gop-nomination-for-senate-in-virginia_us_5b1fee1de4b09d7a3d779079",
+                                "title": "Confederate Statue Defender Wins GOP Nomination For Senate In Virginia | HuffPost"
+                            },
+                            {
+                                "link": "http://dailycaller.com/2018/06/12/rosen-heller-win-nevada-primary/",
+                                "title": "Nevada Congresswoman Jacky Rosen Wins Democratic Senate Nomination | The Daily Caller"
+                            },
+                            {
+                                "link": "http://www.foxnews.com/politics/2018/06/13/laxalt-wins-gop-nomination-in-nevada-governor-race.html",
+                                "title": "Laxalt wins GOP nomination in Nevada governor race | Fox News"
+                            },
+                            {
+                                "link": "http://dailycaller.com/2018/06/12/adam-laxalt-wins-gop-primary-for-nevada-governor-in-landslide-victory/",
+                                "title": "Adam Laxalt Wins GOP Primary For Nevada Governor In Landslide Victory | The Daily Caller"
+                            },
+                            {
+                                "link": "http://dailycaller.com/2018/06/12/arrington-defeats-sanford-sc-primary/",
+                                "title": "Katie Arrington Defeats Mark Sanford In GOP Primary Hours After Trump Endorsement | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.washingtonpost.com/politics/primary-election-virginia-south-carolina-maine-nevada-north-dakota/2018/06/11/fbebc6d2-6da4-11e8-bd50-b80389a4e569_story.html?noredirect=on",
+                                "title": "Sanford founders in South Carolina after critical tweet from Trump - The Washington Post"
+                            },
+                            {
+                                "link": "http://www.breitbart.com/big-government/2018/06/12/live-updates-primary-night-maga-candidates-hoping-for-huge-wins/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "***Live Updates*** Primary Night: MAGA Candidates Hoping for Huge Wins | Breitbart"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/democrats-flip-state-legislative-seats/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Democrats flip 43rd state legislative seat since Trump took office  - CNNPolitics"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/virginia-senate-race-corey-stewart/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Controversial candidate Corey Stewart wins GOP nomination in Virginia Senate race - CNNPolitics"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/archie-parnell-south-carolina-primary/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Candidate who admitted to domestic abuse wins South Carolina primary - CNNPolitics"
+                            }
+                        ],
+                        "max_node_title": "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics",
+                        "max_node_link": "https://www.cnn.com/2018/06/12/politics/tuesday-primaries-south-carolina-virginia-nevada-north-dakota-maine/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                        "max_node_id": "cnn.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 24,
+                        "timestamp_tz": "2018-06-13T00:05:16",
+                        "timestamp_utc": "2018-06-13T04:05:16"
+                    },
+                    "id": "0-0",
+                    "story_idx": 0
+                },
+                {
+                    "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=26&hist=144&t=2018-06-13T04:25:17",
+                    "timestamp": "2018-06-13T04:25:17.118230Z",
+                    "avg_degree": 4.9,
+                    "max_connected_comp_dets": {
+                        "max_node_degree": 13,
+                        "max_node_indx": 70,
+                        "connected_comp_uris": [
+                            {
+                                "link": "https://www.politicususa.com/2018/06/12/democrats-flip-wisconsin-senate-seat-in-district-that-trump-won-by-18.html",
+                                "title": "Democrats Flip Wisconsin Senate Seat In District That Trump Won By 18"
+                            },
+                            {
+                                "link": "https://www.vox.com/2018/6/12/17457024/record-number-of-women-win-virginia-primary",
+                                "title": "Women dominated the Virginia Democratic primary on Tuesday - Vox"
+                            },
+                            {
+                                "link": "https://www.huffingtonpost.com/entry/caleb-frostman-wisconsin_us_5b2079ade4b09d7a3d7845e9",
+                                "title": "Democrats Score Special Election Upset In Wisconsin District Trump Won Big | HuffPost"
+                            },
+                            {
+                                "link": "https://www.vox.com/policy-and-politics/2018/6/12/17454204/primary-elections-2018-results-virginia-maine-nevada-south-carolina",
+                                "title": "Primary election results: Virginia, Nevada, Maine, South Carolina winners and losers - Vox"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/campaign/391930-two-former-nevada-congressmen-set-for-rematch",
+                                "title": "Two former Nevada congressmen set for rematch | TheHill"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/tuesday-primaries-south-carolina-virginia-nevada-north-dakota-maine/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/campaign/391986-sanford-i-think-that-ill-end-up-losing-this-election",
+                                "title": "Sanford: 'I think that I'll end up losing this election' | TheHill"
+                            },
+                            {
+                                "link": "https://www.vox.com/2018/6/12/17455922/wisconsin-special-elections-results-june",
+                                "title": "Wisconsin special elections: Democrats win 2 more state legislative seats - Vox"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/state-watch/391872-laxalt-sisolak-to-face-off-in-nevada-governors-race",
+                                "title": "Laxalt, Sisolak to face off in Nevada governor's race | TheHill"
+                            },
+                            {
+                                "link": "https://www.vox.com/policy-and-politics/2018/6/12/17453368/south-carolina-primary-election-live-results-mark-sanford-katie-arrington",
+                                "title": "South Carolina House primary election results: Mark Sanford loses to Katie Arrington - Vox"
+                            },
+                            {
+                                "link": "https://www.huffingtonpost.com/entry/confederate-statue-defender-wins-gop-nomination-for-senate-in-virginia_us_5b1fee1de4b09d7a3d779079",
+                                "title": "Confederate Statue Defender Wins GOP Nomination For Senate In Virginia | HuffPost"
+                            },
+                            {
+                                "link": "http://dailycaller.com/2018/06/12/rosen-heller-win-nevada-primary/",
+                                "title": "Nevada Congresswoman Jacky Rosen Wins Democratic Senate Nomination | The Daily Caller"
+                            },
+                            {
+                                "link": "http://thehill.com/homenews/campaign/391858-sanford-defeated-in-primary-defined-by-support-for-trump",
+                                "title": "Sanford defeated in primary defined by support for Trump | TheHill"
+                            },
+                            {
+                                "link": "http://dailycaller.com/2018/06/12/adam-laxalt-wins-gop-primary-for-nevada-governor-in-landslide-victory/",
+                                "title": "Adam Laxalt Wins GOP Primary For Nevada Governor In Landslide Victory | The Daily Caller"
+                            },
+                            {
+                                "link": "http://dailycaller.com/2018/06/12/arrington-defeats-sanford-sc-primary/",
+                                "title": "Katie Arrington Defeats Mark Sanford In GOP Primary Hours After Trump Endorsement | The Daily Caller"
+                            },
+                            {
+                                "link": "https://www.washingtonpost.com/politics/primary-election-virginia-south-carolina-maine-nevada-north-dakota/2018/06/11/fbebc6d2-6da4-11e8-bd50-b80389a4e569_story.html?noredirect=on",
+                                "title": "Sanford founders in South Carolina after critical tweet from Trump - The Washington Post"
+                            },
+                            {
+                                "link": "http://www.breitbart.com/big-government/2018/06/12/live-updates-primary-night-maga-candidates-hoping-for-huge-wins/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29",
+                                "title": "***Live Updates*** Primary Night: MAGA Candidates Win Big | Breitbart"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/democrats-flip-state-legislative-seats/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Democrats flip 43rd state legislative seat since Trump took office  - CNNPolitics"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/virginia-senate-race-corey-stewart/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Controversial candidate Corey Stewart wins GOP nomination in Virginia Senate race - CNNPolitics"
+                            },
+                            {
+                                "link": "https://www.cnn.com/2018/06/12/politics/archie-parnell-south-carolina-primary/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                                "title": "Candidate who admitted to domestic abuse wins South Carolina primary - CNNPolitics"
+                            }
+                        ],
+                        "max_node_title": "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics",
+                        "max_node_link": "https://www.cnn.com/2018/06/12/politics/tuesday-primaries-south-carolina-virginia-nevada-north-dakota-maine/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29",
+                        "max_node_id": "cnn.com-0"
+                    },
+                    "non_max_connected_comp_dets": [],
+                    "graph_info": {
+                        "cursor": 26,
+                        "timestamp_tz": "2018-06-13T00:25:17",
+                        "timestamp_utc": "2018-06-13T04:25:17"
+                    },
+                    "id": "0-2",
+                    "story_idx": 0
+                }
+            ],
+            "stats": {
+                "total_graphs": 3
+            }
+        }
+    },
+    "story_clusters": {
+        "2018-06-13": {
+            "stories": [
+                {
+                    "clusterer": "sgdata.same_day_seq_cluster_by_common_links",
+                    "graph_ids": [
+                        {
+                            "id": "0-1",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=25&hist=144&t=2018-06-13T04:15:13",
+                            "graph_uri_local_datetime": "2018-06-13T00:15:13",
+                            "avg_degree": 5.1,
+                            "max_node_title": "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics",
+                            "maxgraph_idx": 0
+                        },
+                        {
+                            "id": "0-0",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=24&hist=144&t=2018-06-13T04:05:16",
+                            "graph_uri_local_datetime": "2018-06-13T00:05:16",
+                            "avg_degree": 5.0,
+                            "max_node_title": "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics",
+                            "maxgraph_idx": 1
+                        },
+                        {
+                            "id": "0-2",
+                            "graph_uri": "https://web.archive.org/storygraph/graphs/usa/#cursor=26&hist=144&t=2018-06-13T04:25:17",
+                            "graph_uri_local_datetime": "2018-06-13T00:25:17",
+                            "avg_degree": 4.9,
+                            "max_node_title": "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics",
+                            "maxgraph_idx": 2
+                        }
+                    ],
+                    "overlap": [
+                        {
+                            "ov": 1.0,
+                            "sizes": [
+                                20,
+                                20
+                            ],
+                            "ids": [
+                                "0-0",
+                                "0-1"
+                            ]
+                        },
+                        {
+                            "ov": 0.9,
+                            "sizes": [
+                                20,
+                                20
+                            ],
+                            "ids": [
+                                "0-1",
+                                "0-2"
+                            ]
+                        }
+                    ],
+                    "max_node_titles": [
+                        [
+                            "South Carolina's Rep. Mark Sanford: 'I think that I'll end up losing this election' - CNNPolitics",
+                            {
+                                "freq": 3,
+                                "graph_uri": [
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=24&hist=144&t=2018-06-13T04:05:16",
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=25&hist=144&t=2018-06-13T04:15:13",
+                                    "https://web.archive.org/storygraph/graphs/usa/#cursor=26&hist=144&t=2018-06-13T04:25:17"
+                                ]
+                            }
+                        ]
+                    ],
+                    "max_avg_degree": 5.1,
+                    "time_range_start": "2018-06-13T04:05:16.165096Z",
+                    "time_range_end": "2018-06-13T04:25:17.118230Z",
+                    "sumgrams_dets": {
+                        "sumgrams": {}
+                    },
+                    "timedelta": "0:20:00.953134",
+                    "duration_mins": 20.0,
+                    "graph_count": 3,
+                    "pulse": "..."
+                }
+            ]
+        }
+    },
+    "params": {
+        "output": "./sgbot_0/tmp/current_storygraphdata.json",
+        "log_file": "",
+        "log_format": "",
+        "log_level": "INFO",
+        "no_print": false,
+        "pretty_print": true,
+        "thread_count": 5,
+        "graph_url": "https://archive.org/download/",
+        "graph_location": "usa",
+        "start_mm_dd": "03-26",
+        "end_mm_dd": "03-26",
+        "start_datetime": "2018-06-13 00:00:00",
+        "end_datetime": "2018-06-13 00:34:48",
+        "add_non_max_con_comps": false,
+        "add_max_con_comp_text": false,
+        "cluster_stories": true,
+        "cluster_stories_by": "max_avg_degree",
+        "cluster_stories_by_weights": "0.7, 0.3, 0.0",
+        "cursor": 0,
+        "daily_maxgraph_count": 0,
+        "format": "json",
+        "maxstory_count": 0,
+        "maxstory_graph_count": 1,
+        "multiday_cluster": false,
+        "pulse_on": "●⁜⚂ᛥ⊛",
+        "pulse_off": ".",
+        "search_key": "",
+        "search_non_key": "",
+        "sim_coeff": 0.3,
+        "year": 2023,
+        "timezone": "US/Eastern",
+        "tool": "maxgraph",
+        "log_dets": {
+            "level": 20
+        }
+    }
+}
