@@ -14,4 +14,4 @@ Once I found the beginning of the story, I went graph to graph, recording the in
 
 ## Toolkit files
 
-In the folder [toolkit_files](data/toolkit_files) found in the [data folder](data), there are the output files from the storygraph-bot algortihm. The stories are denoted by their index, 0 to 19, which come from their position in the exemplar data set. In each file for a given story, the cache holds a json file for each data. This is where the information for the graphs the algorithm flagged are found in. 
+In the folder [toolkit_files](data/sg_toolkit_files) found in the [data folder](data), there are the output files from the storygraph-bot algortihm. The stories are denoted by their index, 0 to 19, which come from their position in the exemplar data set. In each file for a given story, the cache holds a json file for each data. This is where the information for the graphs the algorithm flagged are found in. 
