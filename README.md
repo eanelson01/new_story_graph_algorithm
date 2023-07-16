@@ -2,16 +2,36 @@
 
 ## Installation
 
-To run the analysis of storygraph-bot's current analysis, download both [storygraphbot](https://github.com/oduwsdl/storygraphbot) and [storygraph-toolkit](https://github.com/oduwsdl/storygraph-toolkit). Both modules have installation instructions as part of their repository. These two modules are used to download the observations of the current algorithm
+To run the analysis of storygraph-bot's current analysis, download both [storygraphbot](https://github.com/oduwsdl/storygraphbot) and [storygraph-toolkit](https://github.com/oduwsdl/storygraph-toolkit). Both modules have installation instructions as part of their repository. These two modules are used to download the observations of the current algorithm. 
+
+The new algorithm can be found on the [sg-story-vectors](https://github.com/anwala/sg-story-vectors) repository. This new algorithm does the clusters the articles based on vector representations. Installation and usage of the new algorithm is described in the repository.  
 
 ## Exemplar Data Set
 
-The [exemplar data set](data/exemplar_dataset.json) is a JSON file with 20 stories with varying qualities. Each dictionary represents a story. Characteristics include the story's title, duration, purity, highest degree, start, and end times. In the links component, there is a list of dictionaries that represent each connected component which is in 10 minute intervals. Each graph dictionary has the story graph link, the average degree of the connected component, and the index of the component as given by the website. 
+The [exemplar data set](data/exemplar_dataset.json) is a JSON file with 20 stories with varying qualities. Each dictionary represents a story. Descriptive characteristics include the story's title, duration, purity, highest degree, start, and end times. A table describing each of these characteristics can be found [here](exemplar_description.md). In the "links" key, there is a list of dictionaries that represent each connected component which is in 10 minute intervals. Each graph dictionary has the story graph link, the average degree of the connected component, and the index of the component as given by the website. 
 
-To create the exemplar data set, I selected a variety of stories from the year in review from [2018](https://storygraph.cs.odu.edu/studies/2019-03/365-dots-in-2018/), [2019](https://storygraph.cs.odu.edu/studies/2019-12/365-dots-in-2019/), and [2020](https://storygraph.cs.odu.edu/studies/2021-01/366-dots-in-2020/). These graphs provided the link to the graph containing the highest degree connected component for the story. I started at this peak of the story and went back in 10 minute intervals until I saw the graph where the connected component first started, indicated by the time stamp where ten minutes before there were no articles related the given story.
+To create the exemplar data set, I selected a variety of stories from the year in review from [2018](https://storygraph.cs.odu.edu/studies/2019-03/365-dots-in-2018/), [2019](https://storygraph.cs.odu.edu/studies/2019-12/365-dots-in-2019/), and [2020](https://storygraph.cs.odu.edu/studies/2021-01/366-dots-in-2020/). These year overview graphs provided the link to the graph containing the connected component with the largest degree for the story. From this peak, I moved backwards in 10 minute intervals until I reached the graph where the connected component first appeared. 
 
-Once I found the beginning of the story, I went graph to graph, recording the information included in the [exemplar data set](data/exemplar_dataset.json). This process continued until there were no longer any more connected components or articles refering to the given story.
+Once I found the beginning of the story, I went from forward from graph to graph, recording the information included in the [exemplar data set](data/exemplar_dataset.json). This process was continued for each graph containing a connected component related to the story until there were no more. This process was repeated for each story. 
 
-## Toolkit files
+## Current Algorithm Analysis & Toolkit File
 
-In the folder [toolkit_files](data/sg_toolkit_files) found in the [data folder](data), there are the output files from the storygraph-bot algortihm. The stories are denoted by their index, 0 to 19, which come from their position in the exemplar data set. In each file for a given story, the cache holds a json file for each data. This is where the information for the graphs the algorithm flagged are found in. 
+For analysis of the current algorithm, I ran the command line prompts for each story. The list of commands made to use the current algorithm data can be found [here](data/sg_toolkit_files/current_algorithm_scripts_ouitline.txt). The format of these commands can be replicated based on the instructions found in the [storygraph-toolkit](https://github.com/oduwsdl/storygraph-toolkit) repository. The outputs from each command were saved and recorded in the [toolkit_files](data/sg_toolkit_files) directory. 
+
+Each story is labeled by its given index, ranging from 0 to 19, which come from their position in the exemplar data set. In each file for a given story, the cache folder holds a json file for each date a cluster was made. In each JSON file, there is information for the graphs the algorithm clustered. The data from these files is what is used to analyze the performance of the current algorithm.
+
+The analysis of the current algorithm can be found in the [current_algorithm_analysis](current_algorithm_analysis.ipynb) notebook. The results can be found in the [current_algorithm_results](current_algorithm_results.csv) csv file.
+
+## Analysis of the New Algorithm
+
+I generated the data for the new algorithm by running the [generating_new_algorithm_data.py](generating_new_algorithm_data.py) file in the command line. I generated the data one story at a time by commenting out the stories I was not focusing on. This was to ensure that each ran properly and because the generation can be a lengthy process.
+
+The data generated by the new algorithm can be found in the [new_algorithm_files](data/new_algorithm_files) folder. There are folders for each story which contain 9 JSON files each. Each of these files represent the data for a story at a given cutoff value. The cutoff value represents the minimum similarity threshold for clustering.
+
+Analysis of the new algorithm can be found in the [examining_new_algorithm_results_with_cutoffs](examing_new_algorithm_with_cutoffs.ipynb) notebook. The results of that analysis can be found in the [new_algorithm_cutoff_results](new_algorithm_cutoff_results.csv) 
+
+For each story, I generated two plots: F1 scores and ROC curves. These plots can be found in their respective folders in the [images](images) folder. The F1 plots show the F1 scores for the story at each cutoff value. The ROC curves show the False Positive Rate vs the Recall and indicate which cutoff value provides the best results in comparison to the exemplar data set. For the ROC curves, I calculated the Area Under The Curve values which can be found in the [new_algorithm_auc_values](new_algorithm_auc_values.csv) csv file.
+
+
+
+

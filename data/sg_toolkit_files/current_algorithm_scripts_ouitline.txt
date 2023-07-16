@@ -1,0 +1,39 @@
+0, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2018-06-11 21:21:34" --end-datetime="2018-06-13 00:34:48" --sgbot-path=./sgbot_0/
+
+1, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2018-02-07 19:03:52" --end-datetime="2018-02-08 03:24:48" --sgbot-path=./sgbot_1/
+
+2, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2018-07-05 19:49:06"" --end-datetime="2018-07-06 11:50:13" --sgbot-path=./sgbot_2/
+
+3, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2018-10-27 15:10:54" --end-datetime="2018-10-29 14:56:30" --sgbot-path=./sgbot_3/
+
+4, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2018-12-13 20:42:54" --end-datetime="2018-12-14 06:22:57" --sgbot-path=./sgbot_4/
+
+5, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2018-12-01 05:06:14" --end-datetime="2018-12-02 17:18:46" --sgbot-path=./sgbot_5/
+
+6,
+
+7,
+
+8, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2019-02-16 17:05:44" --end-datetime="2019-02-17 01:16:12" --sgbot-path=./sgbot_8/
+
+9, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2019-03-30 00:34:19" --end-datetime="2019-03-30 14:45:03" --sgbot-path=./sgbot_9/
+
+10,
+
+11, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2019-12-29 23:25:01" --end-datetime="2019-12-30 15:26:26" --sgbot-path=./sgbot_11/
+
+12,
+
+13,
+
+14,
+
+15,
+
+16, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2020-12-28 01:19:44" --end-datetime="2020-12-28 21:08:24" --sgbot-path=./sgbot_16/
+
+17, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2020-07-18 03:53:08" --end-datetime="2020-07-19 14:55:57" --sgbot-path=./sgbot_17/
+
+18,
+
+19, time sgbot --timetravel-rate=1 --activation-degree=0.0 --start-datetime="2019-08-14 12:25:36" --end-datetime="2019-08-14 20:06:07" --sgbot-path=./sgbot_19/
