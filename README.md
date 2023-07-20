@@ -32,6 +32,18 @@ Analysis of the new algorithm can be found in the [examining_new_algorithm_resul
 
 For each story, I generated two plots: F1 scores and ROC curves. These plots can be found in their respective folders in the [images](images) folder. The F1 plots show the F1 scores for the story at each cutoff value. The ROC curves show the False Positive Rate vs the Recall and indicate which cutoff value provides the best results in comparison to the exemplar data set. For the ROC curves, I calculated the Area Under The Curve values which can be found in the [new_algorithm_auc_values](new_algorithm_auc_values.csv) csv file.
 
+In the [tables](tables) folder, I have generated tables for the F1, recall, and precision scores. Each row represents a cutoff value and each column is the story ids. The average of the given score is shown as the last column of each table. Using these tables, I determined that the new algorithm performs best with a cutoff value of 0.90. Using this, we can now compare it to the old algorithm.
 
+## Comparing the Current & New Algorithm
+
+To compare the new and old algorithm, we can look at the respective scores. The table below shows them:
+
+| Metric    | Old Algorithm      | New Algorithm       |
+|-----------|--------------------|---------------------|
+| F1        | 0.5248660341841195 | 0.6784923491519433  |
+| Recall    | 0.4113573299349806 | 0.6349938587909226  | 
+| Precision | 0.955920359873021  | 0.7802443456129184  | 
+
+From this analysis, we can conclude that the new algorithm is superior.
 
 
