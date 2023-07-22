@@ -40,9 +40,9 @@ To compare the new and old algorithm, we can look at the respective scores. The 
 
 | Metric    | Old Algorithm      | New Algorithm       |
 |-----------|--------------------|---------------------|
-| F1        | 0.5248660341841195 | 0.6784923491519433  |
-| Recall    | 0.4113573299349806 | 0.6349938587909226  | 
-| Precision | 0.955920359873021  | 0.7802443456129184  | 
+| F1        | 0.5248660341841195 | 0.7566173491519433  |
+| Recall    | 0.4113573299349806 | 0.7115244710358205  | 
+| Precision | 0.955920359873021  | 0.8600315796554717  | 
 
 From this analysis, we can conclude that the new algorithm is superior.
 
