@@ -2,7 +2,7 @@
 
 ## Installation
 
-To run the analysis of storygraph-bot's current analysis, download both [storygraphbot](https://github.com/oduwsdl/storygraphbot) and [storygraph-toolkit](https://github.com/oduwsdl/storygraph-toolkit). Both modules have installation instructions as part of their repository. These two modules are used to download the observations of the current algorithm. 
+To run the analysis of storygraph bot's current analysis, download both [storygraphbot](https://github.com/oduwsdl/storygraphbot) and [storygraph-toolkit](https://github.com/oduwsdl/storygraph-toolkit). Both modules have installation instructions as part of their repository. These two modules are used to download the observations of the current algorithm. 
 
 The new algorithm can be found on the [sg-story-vectors](https://github.com/anwala/sg-story-vectors) repository. This new algorithm does the clusters the articles based on vector representations. Installation and usage of the new algorithm is described in the repository.  
 
