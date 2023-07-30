@@ -38,12 +38,18 @@ In the [tables](tables) folder, I have generated tables for the F1, recall, and 
 
 To compare the new and old algorithm, we can look at the respective scores. The table below shows them:
 
-| Metric    | Old Algorithm      | New Algorithm       |
-|-----------|--------------------|---------------------|
-| F1        | 0.5248660341841195 | 0.7566173491519433  |
-| Recall    | 0.4113573299349806 | 0.7115244710358205  | 
-| Precision | 0.955920359873021  | 0.8600315796554717  | 
+| Metric    | Old Algorithm      | New Algorithm    |
+|-----------|--------------------|------------------|
+| F1        | 0.5248660341841195 | 0.8285635189242  |
+| Recall    | 0.4113573299349806 | 0.7808211613431492 | 
+| Precision | 0.955920359873021  | 0.934452875951768 | 
 
 From this analysis, we can conclude that the new algorithm is superior.
+
+## Analyzing New Dimension Data
+
+To test if changing the story vector dimension affects the F1 scores for each story, I ran the new algorithm with new dimension values of 10, 50, 100, 500, 1000 (the current dimension value), 1500, and 2000. The analysis can be found in the [examining_new_algorithm_with_dimension](examining_new_algorithm_with_dimensions.ipynb) notebook and the results can be found in the table [here](tables/new_algorithm_f1_by_dimension.csv). The results show that the dimension that yields the best F1 score is 1000, 1500, and 2000. These three dimension values netted the same exact F1 scores and for this reason, 1000 is the best to reduce dimensions without sacrificing performance. 
+
+With this analysis, we can conclude that the new algorithm with a cutoff of 0.90 and a dimension value of 1000 results in the best F1 score for each story. 
 
 
